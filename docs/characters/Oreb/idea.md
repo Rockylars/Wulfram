@@ -1,8 +1,27 @@
+<p style="text-align: center;">
+  <b>Oreb</b>
+  <br>
+  Twisted heart
+  <br>
+  Royal riches
+  <br>
+  <b>[A]</b> Tammy's Head
+</p>
+
+-----
+
+
 ### The concept:
 
 The idea for Oreb is very much focused on crows/ravens, corrupt hearts, being killed by Gideon, being shunned by God and especially Crow's Heart.
 Health for Oreb should work entirely opposite, with the challenge being to spend as much money as possible.
 His innate and buffed It Hurts encourages sacrifice far more, especially now that the rare soul heart is no longer damaged and devil chance is no longer lost when doing so.
+
+-----
+
+### Stats:
+
+Oreb's health up will give a red heart container.
 
 Oreb spawns with:
 - [*Visible*] Smelted Crow's Heart
@@ -22,7 +41,6 @@ Oreb's stats are:
 - Flight
 - Feather shaped tears
 
-
 Oreb has the innate benefit and downside of:
 - [Q1] **Careless Command** - "Warfare at any cost"
   - (benefit/downside) Will have a 1% chance to replace your tear with:
@@ -36,16 +54,16 @@ Oreb has the innate benefit and downside of:
   - Speed down is also halved for playability reasons.
   - Speed down items follow this same logic.
   - All flight items give a massive 0.5 speed up.
-- [Q3] **Forsaken** - "Deuteronomy 28:20 - For your tainted soul, wicked mind and vexed body "
+- [Q3] **Forsaken** - "Deuteronomy 28:20 - For your tainted soul, wicked mind and vexed body"
   - Devil deals now prioritize soul/black heart damage rather than red heart damage.
   - You can no longer gain angel rooms through conventional means.
+  - All held/spawned soul hearts are converted to their respective black hearts.
 - [Q2] **Hyperopia** - "Farsighted"
   - Spectral tears up to a short distance, after which they turn normal
   - Allows you to shoot through rocks from close up, which is when spectral is most important
-- [Q1] **Oreb's Fate** - "Judges 6:14"
+- [Q0] **Oreb's Fate** - "Judges 6:14"
   - Losing an eternal heart will turn you into the Lost form for the rest of the floor.
   - Losing an eternal heart will grant a temporary moderate tears up for the rest of the floor.
-  - All soul hearts are converted to their respective black hearts.
 - [Q3] **Sinner's Remorse** - "A price to pay"
   - Angel deals are no longer a choice item.
   - They will cost money similar to Greed's angel deals.
@@ -81,10 +99,10 @@ Oreb has the innate benefit and downside of:
 
 **Forsaken:**
 - Red hearts: Losing them no longer loses the devil deal.
-- Soul/Black hearts: Now trigger the devil deal loss and are priced as valuable as red heart containers by the devil.
+- Soul hearts: Are converted into black hearts upon spawning or being given.
+- Black hearts: Now trigger the devil deal loss and are priced as valuable as red heart containers by the devil.
 
 **Oreb's Fate:**
-- Soul hearts: Are converted into black hearts upon spawning or being given.
 - Eternal hearts: Losing one turns Oreb into the Lost for the rest of the floor, like Tainted Jacob being hit by Dark Esau, but will grant a tears up for the floor.
 
 ---

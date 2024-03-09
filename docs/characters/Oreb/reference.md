@@ -6,10 +6,11 @@ Oreb was killed at the Rock of Oreb and Zeeb at the winepress (a rocky trench fo
 Zebah and Zalmunna were later beheaded just like Oreb and Zeeb by Gideon's hands, but much later.
 
 The Midianites are a folk coming from Midian, a son of [Abraham](https://en.wikipedia.org/wiki/Abraham) (father of Isaac), whose mother ([Keturah](https://en.wikipedia.org/wiki/Keturah)) was his second wife.
-There is not that much info about them, their pottery ([Qurraya ware](https://en.wikipedia.org/wiki/Midianite_pottery)) suggests they were sea folk (people from greek islands) and their
+There is not that much info about them, their pottery ([Qurraya ware](https://en.wikipedia.org/wiki/Midianite_pottery)) suggests they were sea folk (people from greek islands).
 
 Gideon and the Book of Judges is a big reference as well, as lots can be pulled from it.
 Gideon did a lot of work with a tiny army to defeat every Midian troop, freeing them from the Midian oppression, but his words were forgotten decades later when he died.
+Even worse, his faith, morals and way of life were almost instantly replaced by idolism once more.
 
 -----
 
