@@ -109,4 +109,4 @@ Oreb has the innate benefit and downside of:
 
 ### How does Oreb gain access to the Mega Satan fight?
 
-Oreb can only gain key pieces by sacrifice rooms, stairway or red angel rooms.
+Oreb can only gain key pieces by birthright, sacrifice rooms, stairway or red angel rooms.

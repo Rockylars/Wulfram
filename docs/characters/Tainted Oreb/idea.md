@@ -1,5 +1,5 @@
 <p style="text-align: center;">
-  <b>Tainted Oreb</b>
+  <b>Tainted Oreb (The Forsaken)</b>
   <br>
   Underworld inhabitant
   <br>
@@ -13,11 +13,11 @@
 
 ### The concept
 
-The idea for Tainted Oreb to fully embrace the afterlife as a land of chaos, trying to usurp the kingdom of death just as him and his people did before with the living.
+The idea for Tainted Oreb to fully embrace his opposite nature through the afterlife's land of chaos, trying to usurp the kingdom of death just as him and his people did before with the living.
 Tainted Oreb has collected various riches, powers and curses among his travels through the nether realm, but sin will only get him deeper in trouble.
 
 Item rooms are guarded by angels, which are rather angry when you "borrow" their treasures.
-Devil deals become free but choice items and are guarded by fallen angels, which are there to take their price.
+Devil deals become free but choice items and are guarded by fallen angels, which are there to take your soul as their payment.
 
 Tainted Oreb gets Tainted Keeper shops, having to pay with his stolen riches for these underworld goods.
 He must find ways at all cost to get money, using his Eye(s) of Greed to take anything he can, for the shops are offering higher quality items and Chaos'd items from every item pool.
@@ -36,6 +36,8 @@ Any bone heart damage taken will remove the devil deal's appearance from that fl
 He must be swift, vigilant and risk bearing to obtain his conquering hold, being sure his Eye of Greed tear and relevant money spending does not go to waste.
 Compared to Oreb, his bony body is now perfectly capable of storing extra money, keys and bombs rather than those weaker feathered wings, so no collectibles will be thrown out.
 
+Red health does not spawn, being converted to a penny, Tainted Oreb can only have empty bone hearts anyways.
+Eternal hearts are replaced by full black hearts.
 
 -----
 
@@ -43,43 +45,66 @@ Compared to Oreb, his bony body is now perfectly capable of storing extra money,
 
 Tainted Oreb's health up will give either a bone or black heart, randomly.
 
-Oreb spawns with:
+Tainted Oreb spawns with:
+- [*Visible*] Smelted Hollow Heart
 - [*Hidden*] Smelted Broken Magnet
-- [*Visible*] Smelted Black Feather
-- Eye of Greed
+- [*Visible*] Smelted Mom's Pearl
+- Held Black Feather
 
-Oreb's health is:
+Tainted Oreb's health is:
 - One bone heart
 - One full black heart
 - One golden heart (on the black heart)
 
-Oreb's stats are:
+Tainted Oreb's stats are:
 - 1.20 speed
 - 1 luck
 - Feather and bone shaped tears, randomly switching between them.
 
-Oreb has the innate benefit and downside of:
+Tainted Oreb has the innate benefit and downside of:
+- [Q2] [Eye of Greed](https://bindingofisaacrebirth.fandom.com/wiki/Eye_of_Greed)
 - [Q3] **Fallen** - "Oh, they're goin' ta have to glue you back together... IN HELL!"
   - [*This item does not spawn for anyone else*]
   - Devil deals now prioritize soul/black heart damage rather than red heart damage.
   - You can no longer gain angel rooms through conventional means.
   - Similar to Forsaken but without the black heart conversion benefit.
 - Better shops
-  - All shops are max size Greed shops.
+  - All shops are max size Tainted Keeper shops.
   - All items are from every pool, like Chaos
   - All items are quality 2 or higher.
-- Can only get black/bone hearts
-  - Half red hearts spawn as a bone heart.
-  - Full red hearts spawn as an eternal heart.
-  - Half soul hearts spawn as a bone heart.
-  - Full soul hearts spawn as a full black heart.
-  - Full soul hearts spawn as full black hearts.
-  - Full black hearts stay the same.
-  - Half red half soul hearts spawn as 
-  - Eternal hearts spawn as full black hearts.
-  - Modded hearts:
-    - Half black hearts spawn as a bone heart.
-    - Half red half black hearts spawn as a full black heart.
-- Health rotates every room, shifting the black hearts and bone hearts around.
-- Money speeds you up and gives luck with the more you hold.
-- 
+- Skeletal bird
+  - Can only hold black hearts, golden hearts and empty bone hearts.
+  - Health rotates every room, shifting the black hearts, golden hearts and bone hearts around.
+- Soul collection
+  - Soul hearts are absorbed into a Bethany soul charge meter.
+  - Eternal hearts are collected as well, accounting for 3 charges each.
+- Guarded item rooms
+  - The item room is now guarded by an angel statue that will come to life as soon as you pick the item up.
+- Guarded devil deals
+  - Devil deals now offer choice pedestals at no cost.
+  - Taking an item will turn the devil statue into a fallen angel.
+
+-----
+
+### All Tainted Oreb's health changes:
+
+**Innate restrictions:**
+- Health rotates every room, shifting the black hearts, golden hearts and bone hearts around.
+- Can only hold black hearts and empty bone hearts.
+
+**Innate:**
+- Red hearts: Each half/full heart spawns as a single penny.
+- Soul hearts: Are absorbed into the soul charge counter.
+- Eternal hearts: Are absorbed into the soul charge counter and are worth 3 charges each.
+- Bone hearts: Can not be filled.
+
+**Fallen:**
+- Soul/Black hearts: Now trigger the devil deal loss and are priced as valuable as red heart containers by the devil.
+
+---
+
+### How does Tainted Oreb gain access to the Mega Satan fight?
+
+Tainted Oreb will have to fight the angels from the item room before picking up birthright.
+
+Tainted Oreb can still gain key pieces by sacrifice rooms, stairway or red angel rooms.
