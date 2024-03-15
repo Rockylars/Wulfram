@@ -6,9 +6,7 @@
 <br>
 **Clear rune:** 3 pips
 
-- Switches all your health.
-
-**Conversions:**
+- Switches all your health according to the following table.
 - Full red heart <=> full soul heart
 - Half red heart <=> half soul heart
 - Empty red heart <=> empty bone heart
@@ -17,6 +15,9 @@
 - Empty red heart + rotten heart => full black heart
 - Bone heart + rotten heart => full black heart
 - Eternal heart => golden heart
-
-**Non conversion**
 - Golden heart = stays the same
+
+---
+
+- https://en.wikipedia.org/wiki/Grape_Agate
+- https://geology.com/minerals/grape-agate/

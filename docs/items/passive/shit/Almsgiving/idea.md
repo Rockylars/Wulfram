@@ -6,7 +6,7 @@
 <br>
 **Quality:** 1
 <br>
-**Abyss:** Bird shaped wisp
+**Abyss:** Bird shaped
 
 - Spawns a random beggar in every room, yes, every room.
 

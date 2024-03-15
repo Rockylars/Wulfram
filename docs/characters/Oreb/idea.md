@@ -13,35 +13,35 @@
 
 ### The concept:
 
-The idea for Oreb is very much focused on crows/ravens, corrupt hearts, being killed by Gideon, being shunned by God and especially Crow's Heart.
-Health for Oreb should work entirely opposite, with the challenge being to spend as much money as possible.
+The idea for **Oreb** is very much focused on crows/ravens, corrupt hearts, being killed by Gideon, being shunned by God and especially Crow's Heart.
+Health for **Oreb** should work entirely opposite, with the challenge being to spend as much money as possible.
 His innate and buffed It Hurts encourages sacrifice far more, especially now that the rare soul heart is no longer damaged and devil chance is no longer lost when doing so.
 
 -----
 
 ### Stats:
 
-Oreb's health up will give a red heart container.
+**Oreb**'s health up will give a red heart container.
 
-Oreb spawns with:
-- [*Visible*] Smelted Crow's Heart
-- [*Hidden*] Smelted Broken Magnet
-- [*Visible*] Smelted Black Feather
-- Held Bloody Crown
-- Held Tammy's Head (not in pocket)
+**Oreb** spawns with:
+- Smelted Crow's Heart trinket
+- Smelted Broken Magnet trinket
+- Smelted Black Feather trinket
+- Held Bloody Crown trinket
+- Held Tammy's Head active (not in pocket)
 
-Oreb's health is:
+**Oreb**'s health is:
 - One full red heart
 - One full black heart
 - One golden heart (on the black heart)
 
-Oreb's stats are:
+**Oreb**'s stats are:
 - 1.20 speed
 - 3 luck
 - Flight
 - Feather shaped tears
 
-Oreb has the innate benefit and downside of:
+**Oreb** has the innate benefit and downside of:
 - [Q1] **Careless Command** - "Warfare at any cost"
   - (benefit/downside) Will have a 1% chance to replace your tear with:
     - Greed's Eye shot if money is above 15.
@@ -62,14 +62,14 @@ Oreb has the innate benefit and downside of:
   - Spectral tears up to a short distance, after which they turn normal
   - Allows you to shoot through rocks from close up, which is when spectral is most important
 - [Q0] **Oreb's Fate** - "Judges 6:14"
-  - Losing an eternal heart will turn you into the Lost form for the rest of the floor.
+  - Losing an eternal heart will turn you into the **Lost** form for the rest of the floor.
   - Losing an eternal heart will grant a temporary moderate tears up for the rest of the floor.
 - [Q3] **Sinner's Remorse** - "A price to pay"
   - Angel deals are no longer a choice item.
   - They will cost money similar to Greed's angel deals.
   - You lose 2 luck for buying one of them.
   - They cost double the price compared to Greed.
-  - Oreb can still rarely acquire these through angel deal red rooms, Stairway, etc.
+  - **Oreb** can still rarely acquire these through angel deal red rooms, Stairway, etc.
 
 
 - [Q2] **Warmonger** - "Through blood and tears"
@@ -84,7 +84,7 @@ Oreb has the innate benefit and downside of:
   - This downside will however consider speed stats above the cap before lowering.
 - [Q1] **Undead Bird** - "Bird is big, and now he is small"
   - [*This item does not spawn for anyone else*]
-  - Entering the Lost form will spawn a Dead Bird familiar for the duration of the Lost form.
+  - Entering the **Lost** form will spawn a Dead Bird familiar for the duration of the **Lost** form.
 
 -----
 
@@ -103,10 +103,10 @@ Oreb has the innate benefit and downside of:
 - Black hearts: Now trigger the devil deal loss and are priced as valuable as red heart containers by the devil.
 
 **Oreb's Fate:**
-- Eternal hearts: Losing one turns Oreb into the Lost for the rest of the floor, like Tainted Jacob being hit by Dark Esau, but will grant a tears up for the floor.
+- Eternal hearts: Losing one turns **Oreb** into the Lost for the rest of the floor, like **Tainted Jacob** being hit by **Dark Esau**, but will grant a tears up for the floor.
 
 ---
 
 ### How does Oreb gain access to the Mega Satan fight?
 
-Oreb can only gain key pieces by birthright, sacrifice rooms, stairway or red angel rooms.
+**Oreb** can only gain key pieces by birthright, sacrifice rooms, stairway or red angel rooms.

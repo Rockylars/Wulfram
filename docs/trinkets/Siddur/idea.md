@@ -6,7 +6,6 @@
 
 - Gain a soul heart each new floor.
 
------
+---
 
-References:
 - https://en.wikipedia.org/wiki/Siddur
