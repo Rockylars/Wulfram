@@ -1,5 +1,5 @@
 <p style="text-align: center;">
-  <b>Tainted Oreb (The Forsaken)</b>
+  <b>Tainted Oreb (The Marauder)</b>
   <br>
   Underworld inhabitant
   <br>
@@ -8,8 +8,7 @@
   Harbinger of death
 </p>
 
-
------
+---
 
 ### The concept
 
@@ -39,7 +38,15 @@ Compared to **Oreb**, his bony body is now perfectly capable of storing extra mo
 Red health does not spawn, being converted to a penny, **Tainted Oreb** can only have empty bone hearts anyways.
 Eternal hearts are replaced by full black hearts.
 
------
+---
+
+### The visual
+
+Skeletal crow with a glowing head instead of a skull, as upon death by Gideon, Oreb was beheaded.
+Starts with a purple glow but follows different colors with different items.
+Purple represents royalty and corruption the best, as well as being the soul stone color.
+
+---
 
 ### Stats:
 
@@ -80,11 +87,13 @@ Eternal hearts are replaced by full black hearts.
   - Eternal hearts are collected as well, accounting for 3 charges each.
 - Guarded item rooms
   - The item room is now guarded by an angel statue that will come to life as soon as you pick the item up.
-- Guarded devil deals
+- [Q2] Blessing of the damned
   - Devil deals now offer choice pedestals at no cost.
-  - Taking an item will turn the devil statue into a fallen angel.
+- [Q0] Hated
+  - Taking a devil deal item will turn the devil statue into a fallen angel.
+  - Taking a treasure room item will spawn an angel.
 
------
+---
 
 ### All Tainted Oreb's health changes:
 
@@ -108,3 +117,9 @@ Eternal hearts are replaced by full black hearts.
 **Tainted Oreb** will have to fight the angels from the item room before picking up birthright.
 
 **Tainted Oreb** can still gain key pieces by sacrifice rooms, stairway or red angel rooms.
+
+---
+
+### How do Tainted Oreb's Silver Item Rooms in Greed Mode get changed?
+
+Normal item rooms do stay changed in fact, 

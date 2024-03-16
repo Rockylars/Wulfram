@@ -12,11 +12,11 @@ Gideon and the Book of Judges is a big reference as well, as lots can be pulled 
 Gideon did a lot of work with a tiny army to defeat every Midian troop, freeing them from the Midian oppression, but his words were forgotten decades later when he died.
 Even worse, his faith, morals and way of life were almost instantly replaced by idolism once more.
 
------
+---
 
 This all came from an idea of [TurtleMelon's question of the day](https://www.youtube.com/watch?v=vmsOep1_HuY) inspiring me after his constant dismay at [Morvids](https://fiendfolio.wiki.gg/wiki/Morvid) in his previous episodes.
 He tends to dislike the [Mothman](https://fiendfolio.wiki.gg/wiki/Mothman) enemies for the same reason, that they fly up and never seem to come down.
 
 The name Wulfram (or Wolfram) means Wolf Raven, which perfectly fits this character idea, it was the original name for the character until I simply went with Oreb's actual name.
-It's a character all about having flight, feather tears and reversed health, entirely based on the crow's heart item but expanded on it.
+It's a character all about having flight, feather tears and reversed health, entirely based on the [Crow Heart](https://bindingofisaacrebirth.fandom.com/wiki/Crow_Heart) trinket but expanded on it.
 Really going after that Morvid crow design.

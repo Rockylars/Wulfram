@@ -1,5 +1,5 @@
 <p style="text-align: center;">
-  <b>Oreb</b>
+  <b>Oreb (The Forsaken)</b>
   <br>
   Twisted heart
   <br>
@@ -8,27 +8,35 @@
   <b>[A]</b> Tammy's Head
 </p>
 
------
+---
 
 
 ### The concept:
 
-The idea for **Oreb** is very much focused on crows/ravens, corrupt hearts, being killed by Gideon, being shunned by God and especially Crow's Heart.
+The idea for **Oreb** is very much focused on crows/ravens, corrupt hearts, being killed by Gideon, being shunned by God and especially [Crow Heart](https://bindingofisaacrebirth.fandom.com/wiki/Crow_Heart).
 Health for **Oreb** should work entirely opposite, with the challenge being to spend as much money as possible.
-His innate and buffed It Hurts encourages sacrifice far more, especially now that the rare soul heart is no longer damaged and devil chance is no longer lost when doing so.
+His innate and buffed [It Hurts](https://bindingofisaacrebirth.fandom.com/wiki/It_Hurts) encourages sacrifice far more, especially now that the rare soul heart is no longer damaged and devil chance is no longer lost when doing so.
 
------
+---
+
+### The visual
+
+Crow character with a visible beak, nothing more to be said.
+Should start with purple eyes due to having black feathers all over the body and head.
+Purple represents royalty and corruption the best, as well as being the soul stone color.
+
+---
 
 ### Stats:
 
 **Oreb**'s health up will give a red heart container.
 
 **Oreb** spawns with:
-- Smelted Crow's Heart trinket
-- Smelted Broken Magnet trinket
-- Smelted Black Feather trinket
-- Held Bloody Crown trinket
-- Held Tammy's Head active (not in pocket)
+- Smelted [Crow Heart](https://bindingofisaacrebirth.fandom.com/wiki/Crow_Heart) trinket
+- Smelted [Broken Magnet](https://bindingofisaacrebirth.fandom.com/wiki/Broken_Magnet) trinket
+- Smelted [Black Feather](https://bindingofisaacrebirth.fandom.com/wiki/Black_Feather) trinket
+- Held [Bloody Crown](https://bindingofisaacrebirth.fandom.com/wiki/Bloody_Crown) trinket
+- Held [Q2] [Tammy's Head](https://bindingofisaacrebirth.fandom.com/wiki/Tammy's_Head) active item
 
 **Oreb**'s health is:
 - One full red heart
@@ -59,8 +67,9 @@ His innate and buffed It Hurts encourages sacrifice far more, especially now tha
   - You can no longer gain angel rooms through conventional means.
   - All held/spawned soul hearts are converted to their respective black hearts.
 - [Q2] **Hyperopia** - "Farsighted"
-  - Spectral tears up to a short distance, after which they turn normal
-  - Allows you to shoot through rocks from close up, which is when spectral is most important
+  - Spectral tears up to a short distance, after which they turn normal.
+  - Allows you to shoot through rocks from close up, which is when spectral is most important.
+  - If you already have an item that gives spectral, the tears will deal 1.5x damage at long range instead.
 - [Q0] **Oreb's Fate** - "Judges 6:14"
   - Losing an eternal heart will turn you into the **Lost** form for the rest of the floor.
   - Losing an eternal heart will grant a temporary moderate tears up for the rest of the floor.
@@ -74,7 +83,7 @@ His innate and buffed It Hurts encourages sacrifice far more, especially now tha
 
 - [Q2] **Warmonger** - "Through blood and tears"
   - [*This item does not spawn for anyone else*]
-  - Buffed version of It Hurts, lasting for 3 rooms.
+  - Buffed version of [It Hurts](https://bindingofisaacrebirth.fandom.com/wiki/It_Hurts), lasting for 3 rooms.
   - Also a nerfed version, as this does not ignore the tear cap.
   - Releases only 6 tears, 4 in all the diagonal directions and 2 sideways.
   - The tears released inflict fear.
@@ -86,7 +95,7 @@ His innate and buffed It Hurts encourages sacrifice far more, especially now tha
   - [*This item does not spawn for anyone else*]
   - Entering the **Lost** form will spawn a Dead Bird familiar for the duration of the **Lost** form.
 
------
+---
 
 ### All Oreb's health changes:
 

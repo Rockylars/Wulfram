@@ -6,12 +6,13 @@
 <br>
 **Quality:** 1
 <br>
+**Pools:** Angel, Stone chest, Confessional
+<br>
 **Abyss:** Bird shaped
 
 - Spawns a random beggar in every room, yes, every room.
 
------
+---
 
-References:
 - https://en.wikipedia.org/wiki/The_Birds_of_the_Air
 - https://en.wikipedia.org/wiki/Alms

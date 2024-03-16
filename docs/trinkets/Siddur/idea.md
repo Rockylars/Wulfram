@@ -6,6 +6,10 @@
 
 - Gain a soul heart each new floor.
 
+**Golden:**
+
+- Gain another soul heart each floor.
+
 ---
 
 - https://en.wikipedia.org/wiki/Siddur
