@@ -22,7 +22,9 @@ Though this would make backtracking rather difficult as in next to impossible.
 
 **Incarnate** will look like the Maw of the Void costume but with 3 eyes.
 Basically a mix of Isaac and The Beast, as should be obvious.
-**Incarnate** opens his maw every time he fires
+**Incarnate** opens his maw every time he fires.
+**Incarnate** has black wings.
+**Incarnate** can still fire while blindfolded.
 
 ---
 

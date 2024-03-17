@@ -14,7 +14,7 @@ Even worse, his faith, morals and way of life were almost instantly replaced by 
 
 ---
 
-This all came from an idea of [TurtleMelon's question of the day](https://www.youtube.com/watch?v=vmsOep1_HuY) inspiring me after his constant dismay at [Morvids](https://fiendfolio.wiki.gg/wiki/Morvid) in his previous episodes.
+This all came from an idea of [TurtleMelon's question of the day on episode 373](https://www.youtube.com/watch?v=vmsOep1_HuY) inspiring me after his constant dismay at [Morvids](https://fiendfolio.wiki.gg/wiki/Morvid) in his previous episodes.
 He tends to dislike the [Mothman](https://fiendfolio.wiki.gg/wiki/Mothman) enemies for the same reason, that they fly up and never seem to come down.
 
 The name Wulfram (or Wolfram) means Wolf Raven, which perfectly fits this character idea, it was the original name for the character until I simply went with Oreb's actual name.
