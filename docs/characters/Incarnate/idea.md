@@ -66,7 +66,7 @@ Basically a mix of Isaac and The Beast, as should be obvious.
     - This gets ignored with Goat Head.
     - This still affects Eucharist, reducing the angel deal chance to 85%.
   - Devil deal items become free but are now a choice item.
-  - [Judas' Tongue](https://bindingofisaacrebirth.fandom.com/wiki/Judas'_Tongue) and [Blue Tongue](/docs/trinkets/Blue Tongue/idea.md) get converted to a 1 damage up and this destroys the trinket.
+  - [Judas' Tongue](https://bindingofisaacrebirth.fandom.com/wiki/Judas'_Tongue) and [Blue Tongue](/docs/trinkets/Blue Tongue/idea.md) now give a 1 damage up instead.
 - [Q2] [Blood Atonement](/docs/items/passive/okay/Blood Atonement/idea.md)
   - You're a demon, getting a bidding from them above needs some sacrifice.
 - [Q3] [Cupid's Arrow](https://bindingofisaacrebirth.fandom.com/wiki/Cupid%27s_Arrow)

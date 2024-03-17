@@ -2,7 +2,7 @@
 <br>
 **Text:** Oceans of wealth
 <br>
-**Appearance:** Looks like an ocean blue stone
+**Appearance:** Looks like an ocean blue and turquoise stone in a tear gem shape
 <br>
 **Quality:** 3
 <br>

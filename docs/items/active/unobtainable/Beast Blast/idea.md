@@ -1,6 +1,6 @@
 **Item:** Beast Blast
 <br>
-**Text:** ビーストブラスト
+**Text:** I'm sorry, Isaac. ビーストブラスト [BEAST BLAST]
 <br>
 **Appearance:** Beast face with hand sticking out
 <br>
@@ -12,7 +12,7 @@
 <br>
 **Abyss:** Orb shaped
 
-- Fire an unstoppable tech brimstone for 3 seconds with your damage.
+- Fire an unstoppable tech brimstone for 3 seconds with your damage, minimum 5 damage.
 
 ---
 
