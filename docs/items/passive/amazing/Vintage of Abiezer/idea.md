@@ -6,11 +6,13 @@
 <br>
 **Quality:** 4
 <br>
-**Pools:** Curse room
+**Pools:** Curse room, Angel room
 <br>
-**Abyss:** Grape shaped
+**Abyss:** Wine bottle shaped
 
-Turns all remaining enemy projectiles into pickups after finishing a room.
+- Turns all remaining enemy projectiles into pickups after finishing a room.
+  - Has a low chance to turn into a chest instead
+  - Has an even lower chance to directly become an item.
 
 ---
 

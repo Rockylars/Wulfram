@@ -6,7 +6,7 @@
 <br>
 **Quality:** 1
 <br>
-**Pools:** Angel, Stone chest, Confessional
+**Pools:** Angel room, Stone chest, Confessional
 <br>
 **Abyss:** Bird shaped
 

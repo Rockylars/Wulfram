@@ -12,19 +12,17 @@
 <br>
 **Abyss:** [Light blue gear](https://noita.wiki.gg/wiki/Sampo)
 
-- Will work like [Plan C](https://bindingofisaacrebirth.fandom.com/wiki/Plan_C) in most cases, but even worse.
-  - Turns everything in the room to gold.
-  - Turns you to gold a few seconds later.
-  - It kills every enemy.
-  - You die 3 seconds later.
-  - All revive items are cancelled out.
+This item is rather complicated, but it will go through the following process to figure out what it will activate.
+It'll probably be not what you wanted.
+The order in which these are listed is the order in which the results take precedence over another.
+
 - Will work like [R Key](https://bindingofisaacrebirth.fandom.com/wiki/R_Key) under a very specific circumstance.
   - First defeat Isaac.
   - Then get teleported to Sheol by the sacrifice room.
   - Then go to the grave room.
   - Then use the Sampo on the dirt patch.
 - Will work like [Clicker](https://bindingofisaacrebirth.fandom.com/wiki/Clicker) under specific circumstances.
-  - Will turn you into Isaac in an item room.
+  - Will turn you into Isaac in a treasure room.
   - Will turn you into Tainted Isaac in a non-special room on the Chest floor.
   - Will turn you into Magdalene in a bedroom.
   - Will turn you into Tainted Magdalene in the boss rush room.
@@ -58,18 +56,24 @@
   - Will turn you into Tainted Bethany in the "a strange door" room.
   - Will turn you into Jacob and Esau in a non-special room on the Void floor.
   - Will turn you into Tainted Jacob and Esau in the minecart room.
-- Will work like [D100](https://bindingofisaacrebirth.fandom.com/wiki/D100) under a specific circumstance.
-  - When used in the Genesis room.
-- Will work like [D4](https://bindingofisaacrebirth.fandom.com/wiki/D4) under a specific circumstance.
-  - When used in the starting room.
-- Will work like [D8](https://bindingofisaacrebirth.fandom.com/wiki/D8) under a specific circumstance.
-  - When used with 8 hearts or more.
-- Will work like [Genesis](https://bindingofisaacrebirth.fandom.com/wiki/Genesis) under a specific circumstance.
-  - When used in the starting room on 1 heart (or as the Lost).
 - Will work like [Death Certificate](https://bindingofisaacrebirth.fandom.com/wiki/Death_Certificate) under specific circumstances.
   - When used in the Dad's Note room.
   - When used after defeating Delirium.
   - When used after defeating Mom.
+- Will work like [Genesis](https://bindingofisaacrebirth.fandom.com/wiki/Genesis) under a specific circumstance.
+  - When used in the starting room on 1 heart.
+- Will work like [D4](https://bindingofisaacrebirth.fandom.com/wiki/D4) under a specific circumstance.
+  - When used in the starting room.
+- Will work like [D100](https://bindingofisaacrebirth.fandom.com/wiki/D100) under a specific circumstance.
+  - When used in the Genesis room.
+- Will work like [D8](https://bindingofisaacrebirth.fandom.com/wiki/D8) under a specific circumstance.
+  - When used with 8 hearts or more.
+- Will work like [Plan C](https://bindingofisaacrebirth.fandom.com/wiki/Plan_C) in all other cases.
+  - Turns everything in the room to gold.
+  - Turns you to gold a few seconds later.
+  - It kills every enemy.
+  - You die 3 seconds later.
+  - All revive items are cancelled out.
 
 ---
 

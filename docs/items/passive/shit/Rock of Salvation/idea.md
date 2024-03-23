@@ -6,12 +6,12 @@
 <br>
 **Quality:** 2
 <br>
-**Pools:** Curse room, angel room, item room
+**Pools:** Curse room, Angel room, Treasure room
 <br>
 **Abyss:** Rock shaped
 
-Creates a single [XVI - The Tower?](https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes#XVI_-_The_Tower?) cluster every 30 seconds.
-Intentionally as annoying as it is potentially rewarding.
+- Creates a single [XVI - The Tower?](https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes#XVI_-_The_Tower?) cluster every 30 seconds.
+- Intentionally as annoying as it is potentially rewarding.
 
 ---
 
