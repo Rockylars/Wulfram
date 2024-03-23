@@ -36,7 +36,7 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 - Smelted [Broken Magnet](https://bindingofisaacrebirth.fandom.com/wiki/Broken_Magnet) trinket
 - Smelted [Black Feather](https://bindingofisaacrebirth.fandom.com/wiki/Black_Feather) trinket
 - Held [Bloody Crown](https://bindingofisaacrebirth.fandom.com/wiki/Bloody_Crown) trinket
-- Held [Q2] [Tammy's Head](https://bindingofisaacrebirth.fandom.com/wiki/Tammy's_Head) active item
+- Held [Tammy's Head](https://bindingofisaacrebirth.fandom.com/wiki/Tammy's_Head) active item
 
 **Oreb**'s health is:
 - One full red heart
@@ -51,7 +51,7 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 
 **Oreb** has the innate benefit and downside of:
 - [Q1] **Careless Command** - "Warfare at any cost"
-  - (benefit/downside) Will have a 1% chance to replace your tear with:
+  - Will have a 1% chance to replace your tear with:
     - Greed's Eye shot if money is above 15.
     - Dr. Fetus shot if bombs are above 15.
     - Sharp Key shot if keys are above 15.
