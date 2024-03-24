@@ -42,7 +42,7 @@ Starts orange and applies burn, exactly like [Aquarius](https://bindingofisaacre
 
 **[Azazel's Rage](https://bindingofisaacrebirth.fandom.com/wiki/Azazel%27s_Rage):** *same*
 <br>
-The brimstone is not **Incarnate**'s modified brimstone beam, it is a straight brimstone and in fact becomes a [Beast Blast](/docs/items/active/unobtainable/Beast Blast/idea.md) brimestone beam!
+The brimstone is not **Incarnate**'s modified brimstone beam, it is a straight brimstone and in fact becomes a [Beast Blast](/docs/characters/Incarnate/items/active/Beast%20Blast/idea.md) brimestone beam!
 
 **[Ball of Tar](https://bindingofisaacrebirth.fandom.com/wiki/Ball_of_Tar):** *better*
 <br>
@@ -55,7 +55,7 @@ This does not mean the 2nd layer, just simply how the item works for **Isaac**.
 
 **[Brimstone](https://bindingofisaacrebirth.fandom.com/wiki/Brimstone):** *worse with an upside*
 <br>
-Although [Beast Blast](/docs/items/active/unobtainable/Beast Blast/idea.md) gives a straight brimstone, to make this more unique, **Incarnate** gets a semicircle brimstone.
+Although [Beast Blast](/docs/characters/Incarnate/items/active/Beast%20Blast/idea.md) gives a straight brimstone, to make this more unique, **Incarnate** gets a semicircle brimstone.
 The brimstone does last much longer than the flames would last, but this short range is still just horrible.
 The brimstone still has a burning effect like the normal tears.
 <br>

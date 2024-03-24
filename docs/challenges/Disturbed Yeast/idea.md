@@ -1,11 +1,12 @@
 **Name:** Disturbed Yeast
 <br>
-**Character:** Isaac
+**Character:** Isaac (and then Incarnate)
 <br>
 **Goal:** Spend 10000 coins and reach Home, this spawns the trophy on your position.
 <br>
 **Unlocks:** ?
 
+---
 
 You gain [Mark of the Beast](), gain [Plan C](https://bindingofisaacrebirth.fandom.com/wiki/Plan_C) and activate it to die.
 As you revive, the "MISTERRRR BEEAAAASTTT" sound effect and visual plays.

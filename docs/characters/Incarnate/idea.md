@@ -18,7 +18,7 @@ Though this would make backtracking rather difficult as in next to impossible.
 
 ---
 
-### The visual
+### The visual:
 
 **Incarnate** will look like the Maw of the Void costume but with 3 eyes.
 Basically a mix of Isaac and The Beast, as should be obvious.
@@ -33,7 +33,7 @@ Basically a mix of Isaac and The Beast, as should be obvious.
 **Incarnate**'s health up will give a red heart container.
 
 **Incarnate** spawns with:
-- Pocket active [Beast Blast](/docs/items/active/unobtainable/Beast Blast/idea.md)
+- Pocket active [Beast Blast](/docs/characters/Incarnate/items/active/Beast%20Blast/idea.md)
 
 **Incarnate**'s health is:
 - One full red heart
@@ -61,12 +61,9 @@ Basically a mix of Isaac and The Beast, as should be obvious.
   - **Incarnate** is immune to contact damage.
 - Lower chance of curses
   - Your mere existence is a curse enough.
-- [Q2] Blessing of the damned: "Your choice has been made"
-  - Minimum 15% devil deal chance.
-    - This gets ignored with Goat Head.
-    - This still affects Eucharist, reducing the angel deal chance to 85%.
-  - Devil deal items become free but are now a choice item.
-  - [Judas' Tongue](https://bindingofisaacrebirth.fandom.com/wiki/Judas'_Tongue) and [Blue Tongue](/docs/trinkets/Blue Tongue/idea.md) now give a 1 damage up instead.
+
+
+- [Blessing of the damned](/docs/items/passive/okay/Blessing%20of%20the%20damned/idea.md)
 - [Q2] [Blood Atonement](/docs/items/passive/okay/Blood Atonement/idea.md)
   - You're a demon, getting a bidding from them above needs some sacrifice.
 - [Q3] [Cupid's Arrow](https://bindingofisaacrebirth.fandom.com/wiki/Cupid%27s_Arrow)

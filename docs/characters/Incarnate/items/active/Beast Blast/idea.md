@@ -2,7 +2,7 @@
 <br>
 **Text:** I'm sorry, Isaac. ビーストブラスト [BEAST BLAST]
 <br>
-**Appearance:** Beast face with hand sticking out
+**Appearance:** Beast face with hand sticking out, with a glowing orb on top of the hand
 <br>
 **Quality:** 4
 <br>

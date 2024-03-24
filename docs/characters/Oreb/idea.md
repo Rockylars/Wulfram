@@ -19,7 +19,7 @@ His innate and buffed [It Hurts](https://bindingofisaacrebirth.fandom.com/wiki/I
 
 ---
 
-### The visual
+### The visual:
 
 Crow character with a visible beak, nothing more to be said.
 Should start with purple eyes due to having black feathers all over the body and head.
