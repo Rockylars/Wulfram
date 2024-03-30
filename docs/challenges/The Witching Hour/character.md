@@ -20,7 +20,7 @@ You start with:
 - Higher max health cap like **Tainted Magdalene**'s Birthright
 
 **Minä**'s stats are:
-- Base **Isaac** stats
+- Base **Isaac** stats, maybe a bit higher speed
 
 **Minä** has the innate benefit and downside of:
 - Can carry 4 pocket items.
@@ -43,3 +43,10 @@ You start with:
 - Golden key on every floor.
   - **Minä** will begin every floor with a golden key.
 - Trinket area or item area is replaced by the spell storage.
+
+Your currently selected wand will determine your stats and spells (tears) cast out, with some buffs applying on top of that like Berserkium.
+The active item button and drop button are repurposed for the pocket active, as that needs 2 more actions.
+
+The wand you hold is held out in front of you like [Spear of Destiny](https://bindingofisaacrebirth.fandom.com/wiki/Spear_of_Destiny).
+
+You gain a kick attack which deals heavy knockback.

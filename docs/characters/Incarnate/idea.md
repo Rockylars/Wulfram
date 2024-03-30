@@ -64,10 +64,11 @@ Basically a mix of Isaac and The Beast, as should be obvious.
 
 
 - [Blessing of the damned](/docs/items/passive/okay/Blessing%20of%20the%20damned/idea.md)
-- [Q2] [Blood Atonement](/docs/items/passive/okay/Blood Atonement/idea.md)
+  - Guaranteed chance of devil deals, no payment.
+- [Blood Atonement](/docs/items/passive/okay/Blood Atonement/idea.md)
   - You're a demon, getting a bidding from them above needs some sacrifice.
-- [Q3] [Cupid's Arrow](https://bindingofisaacrebirth.fandom.com/wiki/Cupid%27s_Arrow)
+- [Cupid's Arrow](https://bindingofisaacrebirth.fandom.com/wiki/Cupid%27s_Arrow)
   - Your fires have piercing, low range without piercing is just a disaster.
   - If you somehow get more of these, they will give a 2.5 damage up.
-- [Q1] [Hot Bombs](https://bindingofisaacrebirth.fandom.com/wiki/Hot_Bombs):
+- [Hot Bombs](https://bindingofisaacrebirth.fandom.com/wiki/Hot_Bombs):
   - Your bombs leave behind fire.

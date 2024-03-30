@@ -14,7 +14,7 @@
 - Increases Mom's health.
   - Causes the screen to shake a few seconds after picking it up with a distant Mom laugh.
 - Always spawns in the Ultra secret room.
-  - Only spawns when the Orb with the specific spell has already been picked up before.
+  - Only spawns when all [Spell Orbs](../Orb%20of%20True%20Knowledge/idea.md) have been picked up before.
 - Does not spawn outside the challenge.
 
 ---

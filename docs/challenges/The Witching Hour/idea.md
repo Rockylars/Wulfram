@@ -50,6 +50,7 @@ This mod by itself will be very similar to how [Nemesis](https://steamcommunity.
 We also allow them to be edited instead of solely being randomly generated.
 Since Minä will not encounter trinkets, we will also put the spell details in the same position instead of filling up the space under the active item with clutter.
 
+For fun, how about we add a rare chance upon exploring a room to spawn a room-traversing Mato enemy (similar to Dark Esau).
 
 ---
 

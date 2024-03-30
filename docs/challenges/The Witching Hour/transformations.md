@@ -1,0 +1,2 @@
+Some of the perks will give [Transformations](https://bindingofisaacrebirth.fandom.com/wiki/Transformations), though these instead will all be cosmetic.
+They are listed [here](https://noita.wiki.gg/wiki/Transformations).

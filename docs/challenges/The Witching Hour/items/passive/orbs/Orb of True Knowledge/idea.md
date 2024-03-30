@@ -1,4 +1,4 @@
-**Item:** Familiar Orb of True Knowledge
+**Item:** Orb of True Knowledge
 <br>
 **Text:** Spell Knowledge + You feel the ground rumbling..
 <br>
@@ -14,7 +14,7 @@
 - Increases Mom's health.
   - Causes the screen to shake a few seconds after picking it up with a distant Mom laugh.
 - Always spawns in the Ultra secret room.
-  - Gets replaced by a [Familiar Orb of True Knowledge](/docs/challenges/The%20Witching%20Hour/items/passive/orbs/Familiar%20Orb%20of%20True%20Knowledge/idea.md) in future runs for this specific spell orb.
+  - Gets replaced by a [Familiar Orb of True Knowledge](/docs/challenges/The%20Witching%20Hour/items/passive/orbs/Familiar%20Orb%20of%20True%20Knowledge/idea.md) if all were collected.
 - Does not spawn outside the challenge.
 
 ---
