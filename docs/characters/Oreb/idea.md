@@ -55,7 +55,7 @@ Purple represents royalty and corruption the best, as well as being the soul sto
     - Greed's Eye shot if money is above 15.
     - Dr. Fetus shot if bombs are above 15.
     - Sharp Key shot if keys are above 15.
-  - Firing this shot will still deduct the collectibe in question.
+  - Firing this shot will still deduct the collectible in question.
 - [Q0] **Feather Flight** - "Speedy wings"
   - Speed ups only give half their respective speed up.
   - Speed up items follow this same logic.

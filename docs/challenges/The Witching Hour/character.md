@@ -42,8 +42,7 @@ You start with:
   - You will have a bar for recharge time below your hearts.
 - Golden key on every floor.
   - **Minä** will begin every floor with a golden key.
-- Trinket area or item area is replaced by the spell storage.
-- 
+- Trinket area or item area is replaced by the spell storage and spell showcase.
 
 Your currently selected wand will determine your stats and spells (tears) cast out, with some buffs applying on top of that like Berserkium.
 The active item button and drop button are repurposed for the pocket active, as that needs 2 more actions.
