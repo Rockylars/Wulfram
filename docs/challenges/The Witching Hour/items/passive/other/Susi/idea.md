@@ -4,7 +4,7 @@
 <br>
 **Appearance:** [Susi](https://noita.wiki.gg/wiki/Susi)
 <br>
-**Quality:** 4
+**Quality:** 2
 <br>
 **Pools:** Secret Room
 <br>

@@ -12,6 +12,12 @@ We could add a levitation mechanic to where holding space will lift you up, but 
 I'll come back to this, as Levitation Trail and Strong Levitation will be interesting perks for it.
 If you were flying, you'd gain spectral, but it would be a limited flight time and would reuse the active item button.
 
+If we add Mimics and also Leggy Mimics, we will add the [Leggy Mutation perk](https://noita.wiki.gg/wiki/Leggy_Mutation).
+This perk is not in the perk pool and only drops from the Leggy Mimic.
+Collecting Leggy Mutation will count as one towards the Lukki transformation instead of needing 2 of Lukki or Leggy.
+
+Might add the [Konna perks and transformation](https://steamcommunity.com/sharedfiles/filedetails/?id=2592820618).
+
 ---
 
 [Q3] [All-Seeing Eye](https://noita.wiki.gg/wiki/All-Seeing_Eye_(Perk)): "You can now see everywhere"
@@ -248,6 +254,8 @@ You gain a follower similar to [Sissy Longlegs](https://bindingofisaacrebirth.fa
 [Q3] [Lukki Mutation](https://noita.wiki.gg/wiki/Lukki_Mutation): "You grow curious additional limbs that fight for you"
 <br>
 You gain flight and your legs will occasionally jab enemies, this will not break invisibility.
+Spiked rocks can't hurt you.
+You can not cross 3 tile long gaps.
 
 [Q3] [Melee Immunity](https://noita.wiki.gg/wiki/Melee_Immunity): "You take no contact damage"
 <br>
@@ -296,7 +304,8 @@ Does not affect wands on previous floors.
 <br>
 Why would you ever take this you dolt.
 It means you can no longer edit wands at all, but enemies have a low chance to drop pennies that look like and work similar to [Bloody Penny](https://bindingofisaacrebirth.fandom.com/wiki/Bloody_Penny).
-Blood money heals you for half a heart, which is ten times stronger than how it works in Noita already.
+Blood money has a chance to heal you for half a heart similar to [Blood Penny](https://bindingofisaacrebirth.fandom.com/wiki/Bloody_Penny), which is way stronger than how it works in Noita already.
+If you also have Tinker with Wands Everywhere, the downside of this gets cancelled out, but you can only edit wands at the Starting Room.
 
 [Q2] [Oil Blood](https://noita.wiki.gg/wiki/Oil_Blood): "You bleed flammable oil, but are immune to fire"
 <br>
@@ -348,10 +357,153 @@ They disappear after a while.
 You now have a 50% chance to shoot a duplicate spell projectile.
 You now have a 50% chance to take double damage from those that hit you (to mimic the 25% projectile damage vulnerability).
 <br>
-{damage type vulnerability} projectile4
+{damage type vulnerability} projectile
 
 [Q3] [Projectile Eater](https://noita.wiki.gg/wiki/Projectile_Eater): "Projectiles that fly into a small sector behind you disappear"
 <br>
+Grants the effect of [Trinity Shield](https://bindingofisaacrebirth.fandom.com/wiki/Trinity_Shield) with a longer range, except it's behind you.
+Will eat your own spells if those hit it.
+
+[Q0] [Projectile Repulsion Field](https://noita.wiki.gg/wiki/Projectile_Repulsion_Field): "Most projectiles are repulsed by your presence, at a cost.."
+<br>
+Incredibly strong, regardless of the downside.
+Basically grants a constantly active [Telekinesis](https://bindingofisaacrebirth.fandom.com/wiki/Telekinesis).
+Will propel your spells faster away from you, often at an unintended angle.
+You now have a 50% chance to take double damage from those that hit you (to mimic the 25% projectile damage vulnerability).
+This repulsion field has a much lower range to not be blatantly overpowered.
+<br>
+{damage type vulnerability} projectile
+
+[Q3] [Projectile Repulsion Sector](https://noita.wiki.gg/wiki/Projectile_Repulsion_Sector): "Projectiles that fly into a small sector in front of you get blown away"
+<br>
+Grants the effect of [Trinity Shield](https://bindingofisaacrebirth.fandom.com/wiki/Trinity_Shield), with a longer range.
+Will propel your spells much faster away from you, often at an unintended angle.
+
+[Q0] [Projectile Slower](https://noita.wiki.gg/wiki/Projectile_Slower): "Projectiles near you slow down"
+<br>
+Slows down projectiles in a small radius around you, including yours.
+
+[Q1] [Revenge Bullets](https://noita.wiki.gg/wiki/Revenge_Bullets): "You return fire when hit by projectiles and become somewhat resilient"
+<br>
+You shoot out a shot when you are hit, that homes towards who shot you (stronger than in Noita as enemies move more).
+The return shot has spectral to not fail.
+You gain a 25% chance to ignore damage from enemies and trollbombs (mimics the 20% projectile and explosive damage resistance).
+<br>
+{damage type resistance} 20% projectile and explosive
+
+[Q1] [Revenge Explosion](https://noita.wiki.gg/wiki/Revenge_Explosion): "You release a magical explosion upon taking damage and become somewhat resilient"
+<br>
+The explosion can not harm you.
+The explosion is rather big and is influenced by Berserkium.
+You gain a 25% chance to ignore damage from explosions (mimics the 25% explosive damage resistance).
+<br>
+{damage type resistance} 25% explosive
+
+[Q0] [Revenge Rats](https://noita.wiki.gg/wiki/Revenge_Rats): "Helpful rats are summoned in your fear"
+<br>
+Taking damage spawns a friendly Rat that has HP and damage scaling by the floor.
+
+[Q1] [Revenge Tentacle](https://noita.wiki.gg/wiki/Revenge_Tentacle): "You summon a monstrous tentacle upon taking damage and become somewhat resilient"
+<br>
+Taking damage activates a Tentacle spell homed at the enemy that hit you, it has spectral.
+You gain a 25% chance to ignore damage from enemies and trollbombs (mimics the 20% projectile and explosive damage resistance).
+
+[Q3] [Saving Grace](https://noita.wiki.gg/wiki/Saving_Grace): "Overkill becomes a second chance"
+<br>
+If you die with an overkill, by taking 3 hearts of damage through vulnerabilities while you only have 1, you will be left with half a red heart instead.
+
+[Q3] [Saving Grace](https://noita.wiki.gg/wiki/Saving_Grace): "Overkill becomes a second chance"
+<br>
+If you die with an overkill, by taking 3 hearts of damage through vulnerabilities while you only have 1, you will be left with half a red heart instead.
+
+[Q2] [Slime Blood](https://noita.wiki.gg/wiki/Slime_Blood): "You bleed slime and become more resilient"
+<br>
+Works with More Blood.
+Slime creep no longer slows you down.
+Taking damage spawns a bunch of slime creep.
+You gain a 25% chance to ignore damage from enemies (mimics the 25% projectile damage resistance).
+<br>
+{damage type resistance} 25% projectile.
+
+[Q0] [Spontaneous Generation](https://noita.wiki.gg/wiki/Spontaneous_Generation): "Vomit near you attracts helpful rat minions"
+<br>
+Spawns a helpful Rat minion near vomit creep that eats it up, rat HP and damage scales with the floor.
+
+[Q1] [Stronger Hearts](https://noita.wiki.gg/wiki/Stronger_Hearts): "Hearts bestow double their health increase"
+<br>
+Does not work on [Health Restore](items/passive/buffs/Health%20Restore/idea.md).
+Doubles [Health Up](items/passive/buffs/Health%20Up/idea.md) to add 4 empty hearts now.
+A bit useless since hearts are a bit uncommon.
+
+[Q4] [Summon Sädeviki](https://noita.wiki.gg/wiki/Summon_S%C3%A4dekivi): "You gain an artefact that allows you to call the celestial rage"
+<br>
+Spawns a [Sädeviki](items/active/Sädeviki/idea.md).
+
+[Q3] [Telekinetic Kick](https://noita.wiki.gg/wiki/Telekinetic_Kick): "You gain new telekinetic powers"
+<br>
+Kick now grabs an object and floats it in front of you, using it again will throw the object as a projectile.
+Chests are dropped down.
+Pennies are collected.
+Kills will not drop double pennies.
+
+[Q0] [Teleportitis](https://noita.wiki.gg/wiki/Teleportitis): "You teleport away when taking damage to attempt to avoid it"
+<br>
+Grants the teleport effect of [Cursed Eye](https://bindingofisaacrebirth.fandom.com/wiki/Cursed_Eye) upon taking damage.
+The room you teleport into is influenced by the direction you are aiming.
+Will teleport you into a red room if you are facing a potential location for one.
+Triggers even on blocked damage.
+Has no cooldown.
+You have a 20% chance to not take damage.
+
+[Q0] [Teleportitis Dodge](https://noita.wiki.gg/wiki/Teleportitis_Dodge): "You teleport a short distance away when an enemy projectile is near"
+<br>
+Teleports you ~3 tiles away when you're about to get hit (or it just passes alongside you).
+This will most likely result in you constantly teleporting.
+Has a 2-second cooldown.
+
+[Q4] [Tinker with Wands Everywhere](https://noita.wiki.gg/wiki/Tinker_with_Wands_Everywhere): "A divine blessing allows you to tinker with wands everywhere"
+<br>
+You can edit wands wherever you are!
+If you also have No More Wand Tinkering, the upside of this gets cancelled out, meaning you can only edit wands at the Starting Room again, but you do gain the Blood Money chance upside.. not really worth it in my opinion but you do you.
+
+[Q1] [Toxic Immunity](https://noita.wiki.gg/wiki/Toxic_Immunity): "You take no damage from toxic things"
+<br>
+You no longer take damage from toxic creep and other toxic things, does not grant immunity to acid.
+<br>
+{damage type immunity} toxic
+
+[Q4] [Trick Blood Money](https://noita.wiki.gg/wiki/Trick_Blood_Money): "Blood money is dropped when death is an accident"
+<br>
+Trick kills drop blood money, trick kills are those done with objects.
+Blood money has a chance to heal you for half a heart similar to [Blood Penny](https://bindingofisaacrebirth.fandom.com/wiki/Bloody_Penny), which is way stronger than how it works in Noita already.
+
+[Q3] [Trick Greed](https://noita.wiki.gg/wiki/Trick_Greed): "Doubles the doubled reward when death is an accident"
+<br>
+Trick kills drop quadruple the pennies instead of double.
+
+[Q4] [Unlimited Spells](https://noita.wiki.gg/wiki/Unlimited_Spells): "Most spells are now unlimited"
+<br>
+Almost all the stock limited spells are now without a limiter.
+Certain spells will be restocked instead of infinite.
+
+[Q4] [Vampirism](https://noita.wiki.gg/wiki/Vampirism): "You lose 25% maximum health, but can replenish health by drinking blood"
+<br>
+Will lower your maximum health by 25%.
+Will not lower your health below a certain point if you have Glass Cannon.
+Slurping blood off the floor or out of a flask will slowly restore health.
+
+[Q2] [Wand Experimenter](https://noita.wiki.gg/wiki/Wand_Experimenter): "Firing newly found and unmodified wands heals you"
+<br>
+Firing newly found and unmodified wands heals you.
+The healing chance drops with each shot fired.
+Modifying the wand cancels out any healing chance.
+
+[Q0] [Worm Attractor](https://noita.wiki.gg/wiki/Worm_Attractor): "Worms find you attractive"
+<br>
+Why would you take this?
+Increases the chance for you to find a Mato.
+If you have Melee Immunity you can use this as a really powerful room clearer.
+If you have a good wand, you got a good chance of getting Worm Blood and [Health Up](items/passive/buffs/Health%20Up/idea.md)s.
 
 ---
 
@@ -403,3 +555,23 @@ All-Seeing Eye could also be nerfed so it only shows all normal rooms on the map
 [Peace with Gods](https://noita.wiki.gg/wiki/Peace_with_Gods)
 <br>
 There is no destruction of the "Holy Temple", so this is useless.
+
+[Rage-fueled Levitation](https://noita.wiki.gg/wiki/Rage-fueled_Levitation)
+<br>
+There is no levitation in Isaac, but it could be cool if we do add it as a temporary flight mechanic, then this perk would really fit.
+
+[Repelling Cape](https://noita.wiki.gg/wiki/Repelling_Cape)
+<br>
+There are no stain mechanics, but they could be cool, then this perk would fit.
+
+[Stainless Armor](https://noita.wiki.gg/wiki/Stainless_Armour)
+<br>
+There are no stain mechanics, but they could be cool, then this perk would fit.
+
+[Strong Levitation](https://noita.wiki.gg/wiki/Strong_Levitation)
+<br>
+There is no levitation in Isaac, but this perk would work well if we added it.
+
+[Wand Radar](https://noita.wiki.gg/wiki/Wand_Radar)
+<br>
+Same reason as Item Radar.

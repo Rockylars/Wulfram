@@ -18,6 +18,8 @@
   - Will also drop to the floor if it travels far enough without hitting anything or hits the wall.
   - Flies over rocks and pits, be careful not to throw it where you can't retrieve it.
 - Forgetting to pick it up will leave it in that room.
+- Using it instead of throwing it will display a line from one of the tablet texts.
+- Kills with it will drop double pennies.
 
 ---
 
