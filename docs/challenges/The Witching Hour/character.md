@@ -43,6 +43,7 @@ You start with:
 - Golden key on every floor.
   - **Minä** will begin every floor with a golden key.
 - Trinket area or item area is replaced by the spell storage.
+- 
 
 Your currently selected wand will determine your stats and spells (tears) cast out, with some buffs applying on top of that like Berserkium.
 The active item button and drop button are repurposed for the pocket active, as that needs 2 more actions.
@@ -50,3 +51,7 @@ The active item button and drop button are repurposed for the pocket active, as 
 The wand you hold is held out in front of you like [Spear of Destiny](https://bindingofisaacrebirth.fandom.com/wiki/Spear_of_Destiny).
 
 You gain a kick attack which deals heavy knockback.
+
+You can levitate (fly) when holding space, this also grants you spectral.
+Spells that fall down will not have infinite spectral.
+This levitate mechanic is still in debate but would help with thin rooms and scary spells.
