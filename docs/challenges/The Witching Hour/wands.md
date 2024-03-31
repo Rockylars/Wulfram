@@ -12,6 +12,6 @@ Tiny wands (low slots) will have much higher firerate and recharge rate.
 
 Always cast wands are super are to find and come with a glow when on a pedestal.
 
-Non shuffle wands are rare to come by.
+Non shuffle wands are rare to come by, shuffle wands have better stats.
 
 The active item will have the Tainted Isaac Birthright selection to show which spells it has.
