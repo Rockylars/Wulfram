@@ -15,7 +15,7 @@
 
 The idea for **Oreb** is very much focused on crows/ravens, corrupt hearts, being killed by Gideon, being shunned by God and especially [Crow Heart](https://bindingofisaacrebirth.fandom.com/wiki/Crow_Heart).
 Health for **Oreb** should work entirely opposite, with the challenge being to spend as much money as possible.
-His innate and buffed [It Hurts](https://bindingofisaacrebirth.fandom.com/wiki/It_Hurts) encourages sacrifice far more, especially now that the rare soul heart is no longer damaged and devil chance is no longer lost when doing so.
+His innate and buffed [It Hurts](https://bindingofisaacrebirth.fandom.com/wiki/It_Hurts) encourages sacrifice far more, especially now that the rare soul heart is no longer damaged and devil chance is lost in less ways.
 
 ---
 
