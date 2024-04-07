@@ -8,6 +8,8 @@
 <br>
 **Pools:** Angel room, Stone chest, Confessional
 <br>
+**Costume:** Lily resting on top of head
+<br>
 **Abyss:** Bird shaped
 
 - Spawns a random beggar in every room, yes, every room.

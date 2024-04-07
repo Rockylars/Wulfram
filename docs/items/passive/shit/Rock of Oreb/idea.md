@@ -8,6 +8,8 @@
 <br>
 **Pools:** Curse room, Treasure room, Secret Room
 <br>
+**Costume:** Rock stuck in face like [The Small Rock](https://bindingofisaacrebirth.fandom.com/wiki/The_Small_Rock), just different
+<br>
 **Abyss:** Shaped like the item
 
 - Damage taken will trigger 3-10 random rocks to break.

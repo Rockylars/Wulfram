@@ -8,6 +8,8 @@
 <br>
 **Pools:** Angel room, Treasure room
 <br>
+**Costume:** Gold cube embedded in top of head
+<br>
 **Abyss:** Shaped like the item
 
 - Rotten hearts become red hearts upon taking damage.

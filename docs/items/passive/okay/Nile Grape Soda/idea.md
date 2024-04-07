@@ -8,7 +8,7 @@
 <br>
 **Pools:** Shop
 <br>
-**Costume:** Plastic gloves on hands, purple juice over face
+**Costume:** Plastic gloves on hands, purple juice over face, red and blue eyes
 <br>
 **Abyss:** Bottle shaped
 

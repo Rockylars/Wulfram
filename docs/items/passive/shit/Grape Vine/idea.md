@@ -8,6 +8,8 @@
 <br>
 **Pools:** Shop, Treasure room, Angel room
 <br>
+**Costume:** Vine wrapped around face, grape cluster on top of head
+<br>
 **Abyss:** Grape shaped
 
 - Spawns a puddle of purple creep every 10 seconds under your feet that charms enemies.

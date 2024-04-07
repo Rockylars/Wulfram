@@ -8,6 +8,8 @@
 <br>
 **Pools:** Curse room, Angel room
 <br>
+**Costume:** Blood dripping down face
+<br>
 **Abyss:** Bird shaped
 
 - Once 3 enemies or fewer remain, they are turned into champion variants that give drops.

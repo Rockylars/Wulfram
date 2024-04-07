@@ -8,6 +8,8 @@
 <br>
 **Pools:** Devil beggar
 <br>
+**Costume:** Face and body become a mix between **Isaac** and **???**
+<br>
 **Abyss:** Heart shaped
 
 - Converts a red heart container to a soul heart every floor.
