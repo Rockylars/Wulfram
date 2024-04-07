@@ -8,6 +8,8 @@
 <br>
 **Pools:** Curse room, Devil deal
 <br>
+**Costume:** Blood dripping from mouth
+<br>
 **Abyss:** Wine bottle
 
 - Every boss will spawn with 10 seconds of fear.

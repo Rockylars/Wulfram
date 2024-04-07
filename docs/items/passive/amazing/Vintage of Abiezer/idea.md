@@ -8,6 +8,8 @@
 <br>
 **Pools:** Curse room, Angel room
 <br>
+**Costume:** Blood and grape juice all over top of head, coming down like hair
+<br>
 **Abyss:** Wine bottle shaped
 
 - Turns all remaining enemy projectiles into pickups after finishing a room.

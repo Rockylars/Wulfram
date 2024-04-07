@@ -8,6 +8,8 @@
 <br>
 **Pools:** Curse room, Angel room, Treasure room
 <br>
+**Costume:** Hairdo made of stone spikes
+<br>
 **Abyss:** Rock shaped
 
 - Creates a single [XVI - The Tower?](https://bindingofisaacrebirth.fandom.com/wiki/Cards_and_Runes#XVI_-_The_Tower?) cluster every 30 seconds.

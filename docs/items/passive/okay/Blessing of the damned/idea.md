@@ -8,6 +8,8 @@
 <br>
 **Pools:** Devil room, Curse room
 <br>
+**Costume:** Star shaped red halo
+<br>
 **Abyss:** Knife shaped
 
 - Reverse of [Blood Atonement](/docs/items/passive/okay/Blood%20Atonement/idea.md).
