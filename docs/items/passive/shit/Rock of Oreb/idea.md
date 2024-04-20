@@ -8,7 +8,7 @@
 <br>
 **Pools:** Curse room, Treasure room, Secret Room
 <br>
-**Transformation(s):** Blue Blood
+**Transformation(s):** [Blue Blood](/docs/transformations/Blue%20Blood/idea.md)
 <br>
 **Costume:** Rock stuck in face like [The Small Rock](https://bindingofisaacrebirth.fandom.com/wiki/The_Small_Rock), just different
 <br>

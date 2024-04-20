@@ -8,7 +8,7 @@
 <br>
 **Pools:** Sacrifice room, Secret room, Devil deal, Angel deal
 <br>
-**Transformation(s):** Blue Blood
+**Transformation(s):** [Blue Blood](/docs/transformations/Blue%20Blood/idea.md)
 <br>
 **Costume:** Same crown on top of head, blood around neck
 <br>

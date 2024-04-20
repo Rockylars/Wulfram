@@ -8,7 +8,7 @@
 <br>
 **Pools:** Curse room, Devil deal
 <br>
-**Transformation(s):** Blue Blood
+**Transformation(s):** [Blue Blood](/docs/transformations/Blue%20Blood/idea.md)
 <br>
 **Costume:** Blood dripping from mouth
 <br>
