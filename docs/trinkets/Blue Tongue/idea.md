@@ -2,6 +2,8 @@
 <br>
 **Text:** Bitten off
 <br>
+**Transformation(s):** -
+<br>
 **Appearance:** A dried blue tongue tip with purple tints and bite marks.
 
 - Reduces devil deals by a soul heart, similar to **???**.

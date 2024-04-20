@@ -8,6 +8,8 @@
 <br>
 **Pools:** Curse room, Devil deal
 <br>
+**Transformation(s):** -
+<br>
 **Costume:** Three claw marks in the back of the head
 <br>
 **Abyss:** Shaped like the item

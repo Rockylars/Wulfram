@@ -8,6 +8,8 @@
 <br>
 **Pools:** Angel room
 <br>
+**Transformation(s):** -
+<br>
 **Charges:** 4 pips
 <br>
 **Abyss:** Grape shaped

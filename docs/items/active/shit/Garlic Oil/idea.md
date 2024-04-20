@@ -8,6 +8,8 @@
 <br>
 **Pools:** Secret room, Treasure room, Shop
 <br>
+**Transformation(s):** -
+<br>
 **Charges:** 2 pips
 <br>
 **Abyss:** Small bottle

@@ -8,6 +8,8 @@
 <br>
 **Pools:** Curse room, Devil deal
 <br>
+**Transformation(s):** Blue Blood
+<br>
 **Costume:** Blood dripping from mouth
 <br>
 **Abyss:** Wine bottle

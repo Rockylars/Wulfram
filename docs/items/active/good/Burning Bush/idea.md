@@ -8,6 +8,8 @@
 <br>
 **Pools:** Secret room, Angel room
 <br>
+**Transformation(s):** -
+<br>
 **Charges:** 1 pip
 <br>
 **Abyss:** Bush shaped

@@ -8,6 +8,8 @@
 <br>
 **Pools:** Devil, Red chest, Confessional
 <br>
+**Transformation(s):** -
+<br>
 **Costume:** Blood dripping down body with a cut in the body, holy eyes
 <br>
 **Abyss:** Knife shaped

@@ -8,6 +8,8 @@
 <br>
 **Pools:** Library, Angel room, Treasure room, Shop
 <br>
+**Transformation(s):** Bookworm
+<br>
 **Charges:** 3 pips
 <br>
 **Abyss:** Book shaped
