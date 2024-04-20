@@ -8,6 +8,8 @@
 <br>
 **Pools:** Devil room, Curse room
 <br>
+**Transformation(s):** -
+<br>
 **Costume:** Star shaped red halo
 <br>
 **Abyss:** Knife shaped

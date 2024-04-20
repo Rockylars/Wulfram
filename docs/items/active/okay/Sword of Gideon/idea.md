@@ -8,6 +8,8 @@
 <br>
 **Pools:** Angel room, Treasure room
 <br>
+**Transformation(s):** -
+<br>
 **Charges:** 3 pips
 <br>
 **Abyss:** Sword shaped

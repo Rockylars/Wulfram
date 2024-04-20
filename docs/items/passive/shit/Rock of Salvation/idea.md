@@ -8,6 +8,8 @@
 <br>
 **Pools:** Curse room, Angel room, Treasure room
 <br>
+**Transformation(s):** -
+<br>
 **Costume:** Hairdo made of stone spikes
 <br>
 **Abyss:** Rock shaped

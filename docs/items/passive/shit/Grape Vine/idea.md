@@ -8,6 +8,8 @@
 <br>
 **Pools:** Shop, Treasure room, Angel room
 <br>
+**Transformation(s):** -
+<br>
 **Costume:** Vine wrapped around face, grape cluster on top of head
 <br>
 **Abyss:** Grape shaped

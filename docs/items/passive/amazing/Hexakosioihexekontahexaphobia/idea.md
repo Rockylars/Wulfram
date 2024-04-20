@@ -8,6 +8,8 @@
 <br>
 **Pools:** Curse room, Devil deal, Treasure room (important)
 <br>
+**Transformation(s):** -
+<br>
 **Costume:** Three sixes on back of head, another three on the eyes and mouth
 <br>
 **Abyss:** Shaped like the item

@@ -8,6 +8,8 @@
 <br>
 **Pools:** Secret room, Curse room
 <br>
+**Transformation(s):** -
+<br>
 **Charges:** One-time use
 <br>
 **Abyss:** Shaped like the item

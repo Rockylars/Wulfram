@@ -8,6 +8,8 @@
 <br>
 **Pools:** Secret room, Treasure room
 <br>
+**Transformation(s):** -
+<br>
 **Charges:** 3 pips
 <br>
 **Abyss:** Jar shaped

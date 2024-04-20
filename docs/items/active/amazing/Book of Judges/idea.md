@@ -8,6 +8,8 @@
 <br>
 **Pools:** Library, Angel room, Treasure room, Shop
 <br>
+**Transformation(s):** [Bookworm](https://bindingofisaacrebirth.fandom.com/wiki/Bookworm)
+<br>
 **Charges:** 4 pips
 <br>
 **Abyss:** Book shaped

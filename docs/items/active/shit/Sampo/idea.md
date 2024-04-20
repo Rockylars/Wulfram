@@ -8,6 +8,8 @@
 <br>
 **Pools:** Secret room
 <br>
+**Transformation(s):** -
+<br>
 **Charges:** one-time use
 <br>
 **Abyss:** [Light blue gear](https://noita.wiki.gg/wiki/Sampo)

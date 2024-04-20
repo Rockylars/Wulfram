@@ -8,6 +8,8 @@
 <br>
 **Pools:** Angel room, Curse room
 <br>
+**Transformation(s):** -
+<br>
 **Charges:** One-time use
 <br>
 **Abyss:** White and blue box

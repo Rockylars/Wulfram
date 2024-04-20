@@ -8,6 +8,8 @@
 <br>
 **Pools:** Stone chest, Treasure room, Shop
 <br>
+**Transformation(s):** -
+<br>
 **Charges:** 6 pips
 <br>
 **Abyss:** Turquoise tear gem shaped

@@ -8,6 +8,8 @@
 <br>
 **Pools:** Angel room, Stone chest, Confessional
 <br>
+**Transformation(s):** -
+<br>
 **Costume:** Lily resting on top of head
 <br>
 **Abyss:** Bird shaped

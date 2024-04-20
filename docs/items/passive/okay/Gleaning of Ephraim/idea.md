@@ -8,6 +8,8 @@
 <br>
 **Pools:** Curse room, Angel room
 <br>
+**Transformation(s):** -
+<br>
 **Costume:** Blood dripping down face
 <br>
 **Abyss:** Bird shaped
