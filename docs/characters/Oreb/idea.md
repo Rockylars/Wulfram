@@ -1,6 +1,8 @@
 <p style="text-align: center;">
   <b>Oreb (The Forsaken)</b>
   <br>
+  ❤ II? 🥾 III 🔪 II
+  <br>
   Twisted heart
   <br>
   Royal riches
@@ -62,6 +64,7 @@ Purple represents royalty and corruption the best, as well as being the soul sto
   - Speed down is also halved for playability reasons.
   - Speed down items follow this same logic.
   - All flight items give a massive 0.5 speed up.
+  - Grants flight
 - [Q3] **Forsaken** - "Deuteronomy 28:20 - For your tainted soul, wicked mind and vexed body"
   - Devil deals now prioritize soul/black heart damage rather than red heart damage.
   - You can no longer gain angel rooms through conventional means.
@@ -70,7 +73,7 @@ Purple represents royalty and corruption the best, as well as being the soul sto
   - Spectral tears up to a short distance, after which they turn normal.
   - Allows you to shoot through rocks from close up, which is when spectral is most important.
   - If you already have an item that gives spectral, the tears will deal 1.5x damage at long range instead.
-- [Q0] **Oreb's Fate** - "Judges 6:14"
+- [Oreb's Fate](/docs/items/passive/shit/Oreb%27s%20Fate/idea.md)
   - Losing an eternal heart will turn you into the **Lost** form for the rest of the floor.
   - Losing an eternal heart will grant a temporary moderate tears up for the rest of the floor.
 - [Q3] **Sinner's Remorse** - "A price to pay"

@@ -1,6 +1,8 @@
 <p style="text-align: center;">
   <b>Tainted Oreb (The Marauder)</b>
   <br>
+  ❤ II? 🥾 III 🔪 II
+  <br>
   Underworld inhabitant
   <br>
   Beyond the veil
@@ -69,7 +71,7 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 - Feather and bone shaped tears, randomly switching between them.
 
 **Tainted Oreb** has the innate benefit and downside of:
-- [Q2] [Eye of Greed](https://bindingofisaacrebirth.fandom.com/wiki/Eye_of_Greed)
+- [Eye of Greed](https://bindingofisaacrebirth.fandom.com/wiki/Eye_of_Greed)
 - [Q3] **Fallen** - "Oh, they're goin' ta have to glue you back together... IN HELL!"
   - [*This item does not spawn for anyone else*]
   - Devil deals now prioritize soul/black heart damage rather than red heart damage.
@@ -87,7 +89,7 @@ Purple represents royalty and corruption the best, as well as being the soul sto
   - Eternal hearts are collected as well, accounting for 3 charges each.
 - Guarded item rooms
   - The item room is now guarded by an angel statue that will come to life as soon as you pick the item up.
-- [Q2] Blessing of the damned
+- [Blessing of the Damned](/docs/items/passive/okay/Blessing%20of%20the%20damned/idea.md)
   - Devil deals now offer choice pedestals at no cost.
 - [Q0] Hated
   - Taking a devil deal item will turn the devil statue into a fallen angel.

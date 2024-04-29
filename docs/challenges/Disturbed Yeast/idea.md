@@ -4,7 +4,7 @@
 <br>
 **Goal:** Spend 10000 coins and reach Home, this spawns the trophy on your position.
 <br>
-**Unlocks:** ?
+**Unlocks:** [Hexakosioihexekontahexaphobia](/docs/items/passive/amazing/Hexakosioihexekontahexaphobia/idea.md)
 
 ---
 
