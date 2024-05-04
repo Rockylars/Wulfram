@@ -1,3 +1,9 @@
+**Name:** Curse of Pica
+<br>
+**True name:** Curse of Hunger
+<br>
+**Icon:** Stomach
+
 You will swallow any trinket you pick up and any consumables are swallowed rather than collected, being released once you lose the curse.
 Any pill will be automatically used.
 
