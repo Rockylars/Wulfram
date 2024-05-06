@@ -1,4 +1,4 @@
-This beggar will take a bomb for a chance at half a soul heart.
+This beggar will take a bomb for a chance at spawning half a soul heart.
 
 For every fail you get a bone orbital.
 
@@ -6,9 +6,9 @@ Has a chance to drop a trinket from the specific trinket collection.
 
 Has a chance to spawn an item from the specific item collection.
 
-The collection is focused on demonic and bone related items/trinkets.
+The collection is focused on light weighted demonic and bone related items/trinkets.
 
-Killing it grants [Curse of Pica](/docs/curses/Curse%20of%20Pica/idea.md).
+Killing it grants [Curse of Pica](/docs/curses/special/Curse%20of%20Pica/idea.md).
 
 ---
 

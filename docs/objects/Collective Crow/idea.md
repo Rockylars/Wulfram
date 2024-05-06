@@ -1,7 +1,7 @@
 This beggar will never take more than 25 cents to given an item.
 With the 14th cent and onwards, you get a 1/8th chance for an item from the [Collective Crow Beggar item pool](item_pool.md) to appear.
 
-Bombing this beggar will give [Curse of the Corvid](/docs/curses/Curse%20of%20Corvus/idea.md) for the floor.
+Bombing this beggar will give [Curse of the Corvid](/docs/curses/special/Curse%20of%20Corvus/idea.md) for the floor.
 
 Once you run out of money, the crow will accept different shinies in the following order:
 - Key = 3 pennies

@@ -3,9 +3,12 @@ Includes bones, teeth, pennies, rocks, glassware, jewelry, (broken) metal object
 If the broken item has a fixed version, it is not included, with an exception given to the razor items.
 If an item is too big or heavy, it is not included.
 
+All items have the same droprate, as they are of equal value to the crow.
+
 Active:
 - [Blood Rights](https://bindingofisaacrebirth.fandom.com/wiki/Blood_Rights)
 - [Broken Glass Cannon](https://bindingofisaacrebirth.fandom.com/wiki/Broken_Glass_Cannon)
+- [Broken Sigil](/docs/items/active/shit/Broken%20Sigil/idea.md)
 - [Clear Rune](https://bindingofisaacrebirth.fandom.com/wiki/Clear_Rune)
 - [Crooked Penny](https://bindingofisaacrebirth.fandom.com/wiki/Crooked_Penny)
 - [D1](https://bindingofisaacrebirth.fandom.com/wiki/D1)

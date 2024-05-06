@@ -6,7 +6,7 @@ Has a chance to spawn an item from the specific item collection and leave after 
 
 The collection is focused on sacks related items/trinkets.
 
-Bombing this beggar grants [Curse of Nucifraga](/docs/curses/Curse%20of%20Nucifraga/idea.md)
+Bombing this beggar grants [Curse of Nucifraga](/docs/curses/special/Curse%20of%20Nucifraga/idea.md)
 
 ---
 
