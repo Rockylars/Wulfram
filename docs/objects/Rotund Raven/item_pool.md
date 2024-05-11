@@ -3,15 +3,15 @@ Item pool that focuses on light weighted spider and "food" related items.
 Active:
 - [Butter Bean](https://bindingofisaacrebirth.fandom.com/wiki/Butter_Bean)
 - [Fortune Cookie](https://bindingofisaacrebirth.fandom.com/wiki/Fortune_Cookie)
-- [Grapes of Thorns](/docs/items/active/shit/Grapes%20of%20thorns/idea.md) - Rare
+- [Grapes of Thorns](/docs/items/active/shit/Grapes%20of%20thorns/idea.md) - 1/10th the weight
 - [Kidney Bean](https://bindingofisaacrebirth.fandom.com/wiki/Kidney_Bean)
 - [Larynx](https://bindingofisaacrebirth.fandom.com/wiki/Larynx)
 - [Lemon Mishap](https://bindingofisaacrebirth.fandom.com/wiki/Lemon_Mishap)
 - [Mega Bean](https://bindingofisaacrebirth.fandom.com/wiki/Mega_Bean)
-- [Mega Mush](https://bindingofisaacrebirth.fandom.com/wiki/Mega_Mush) - Rare
+- [Mega Mush](https://bindingofisaacrebirth.fandom.com/wiki/Mega_Mush) - 1/10th the weight
 - [Spider Butt](https://bindingofisaacrebirth.fandom.com/wiki/Spider_Butt)
 - [The Bean](https://bindingofisaacrebirth.fandom.com/wiki/The_Bean)
-- [The True Vine](/docs/items/active/amazing/The%20True%20Vine/idea.md) - Rare
+- [The True Vine](/docs/items/active/amazing/The%20True%20Vine/idea.md) - 1/10th the weight
 - [Wait What?](https://bindingofisaacrebirth.fandom.com/wiki/Wait_What%3F)
 - [Wavy Cap](https://bindingofisaacrebirth.fandom.com/wiki/Wavy_Cap)
 - [Yum Heart](https://bindingofisaacrebirth.fandom.com/wiki/Yum_Heart)
@@ -59,7 +59,6 @@ Passive:
 - [Parasitoid](https://bindingofisaacrebirth.fandom.com/wiki/Parasitoid)
 - [Placenta](https://bindingofisaacrebirth.fandom.com/wiki/Placenta)
 - [Raw Liver](https://bindingofisaacrebirth.fandom.com/wiki/Raw_Liver)
-- [Rotten Tomato](https://bindingofisaacrebirth.fandom.com/wiki/Rotten_Tomato)
 - [Sausage](https://bindingofisaacrebirth.fandom.com/wiki/Sausage)
 - [Sissy Longlegs](https://bindingofisaacrebirth.fandom.com/wiki/Sissy_Longlegs)
 - [Spider Bite](https://bindingofisaacrebirth.fandom.com/wiki/Spider_Bite)

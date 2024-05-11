@@ -22,6 +22,7 @@ Passive:
 - [Parasitoid](https://bindingofisaacrebirth.fandom.com/wiki/Parasitoid)
 - [Psy Fly](https://bindingofisaacrebirth.fandom.com/wiki/Psy_Fly)
 - [Rotten Meat](https://bindingofisaacrebirth.fandom.com/wiki/Rotten_Meat)
+- [Rotten Tomato](https://bindingofisaacrebirth.fandom.com/wiki/Rotten_Tomato)
 - [Skatole](https://bindingofisaacrebirth.fandom.com/wiki/Skatole)
 - [Smart Fly](https://bindingofisaacrebirth.fandom.com/wiki/Smart_Fly)
 - [The Mulligan](https://bindingofisaacrebirth.fandom.com/wiki/The_Mulligan)

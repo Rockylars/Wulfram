@@ -10,3 +10,7 @@ Has a chance to spawn an item from the specific item collection.
 The collections are focused on light weighted fly and rotting food related items/trinkets.
 
 Will give [Curse of Corvus](/docs/curses/special/Curse%20of%20Corvus/idea.md) if bombed.
+
+---
+
+TODO: Write the odds down.

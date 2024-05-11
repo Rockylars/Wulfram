@@ -1,14 +1,23 @@
-This beggar will take a bomb for a chance at spawning half a soul heart.
+This beggar will take a bomb for a chance at spawning either:
+- half a soul heart
+- a bone heart
+- normal wisp
 
 For every fail you get a bone orbital.
 
-Has a chance to drop a trinket from the specific trinket collection.
+Has a chance to drop a trinket from the specific trinket collection after 5 bombs.
 
-Has a chance to spawn an item from the specific item collection.
+Has a chance to spawn an item from the specific item collection after 15 bombs. 
 
-The collection is focused on light weighted demonic and bone related items/trinkets.
+The collection is focused on knife and some bomb related items/trinkets.
+
+Will not take more than 30 bombs, however this does not guarantee an item payout as the health is already massively beneficial unless you're **Bethany**.
 
 Killing it grants [Curse of Pica](/docs/curses/special/Curse%20of%20Pica/idea.md).
+
+---
+
+TODO: Write the odds down.
 
 ---
 
