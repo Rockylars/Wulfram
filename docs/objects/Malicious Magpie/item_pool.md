@@ -1,0 +1,36 @@
+Item pool that focuses on knives and some bombs.
+
+Active:
+- [Blood Rights](https://bindingofisaacrebirth.fandom.com/wiki/Blood_Rights)
+- [Damocles](https://bindingofisaacrebirth.fandom.com/wiki/Damocles) - 1/10th the weight
+- [Dark Arts](https://bindingofisaacrebirth.fandom.com/wiki/Dark_Arts)
+- [Dull Razor](https://bindingofisaacrebirth.fandom.com/wiki/Dull_Razor)
+- [Golden Razor](https://bindingofisaacrebirth.fandom.com/wiki/Golden_Razor)
+- [Kamikaze!](https://bindingofisaacrebirth.fandom.com/wiki/Kamikaze!)
+- [Mr. Boom](https://bindingofisaacrebirth.fandom.com/wiki/Mr._Boom)
+- [Meat Cleaver](https://bindingofisaacrebirth.fandom.com/wiki/Meat_Cleaver)
+- [Potato Peeler](https://bindingofisaacrebirth.fandom.com/wiki/Potato_Peeler)
+- [Razor Blade](https://bindingofisaacrebirth.fandom.com/wiki/Razor_Blade)
+- [Remote Detonator](https://bindingofisaacrebirth.fandom.com/wiki/Remote_Detonator)
+- [Scissors](https://bindingofisaacrebirth.fandom.com/wiki/Scissors)
+- [Sharp Key](https://bindingofisaacrebirth.fandom.com/wiki/Sharp_Key)
+- [Sumptorium](https://bindingofisaacrebirth.fandom.com/wiki/Sumptorium)
+- [The Nail](https://bindingofisaacrebirth.fandom.com/wiki/The_Nail)
+- [The Pinking Shears](https://bindingofisaacrebirth.fandom.com/wiki/The_Pinking_Shears)
+- [Ventricle Razor](https://bindingofisaacrebirth.fandom.com/wiki/Ventricle_Razor)
+
+Passive:
+- [8 Inch Nails](https://bindingofisaacrebirth.fandom.com/wiki/8_Inch_Nails)
+- [Athame](https://bindingofisaacrebirth.fandom.com/wiki/Athame)
+- [Backstabber](https://bindingofisaacrebirth.fandom.com/wiki/Backstabber)
+- [Betrayal](https://bindingofisaacrebirth.fandom.com/wiki/Betrayal)
+- [Blood Atonement](/docs/items/passive/okay/Blood%20Atonement/idea.md)
+- [Death's Touch](https://bindingofisaacrebirth.fandom.com/wiki/Death%27s_Touch)
+- [It Hurts!](https://bindingofisaacrebirth.fandom.com/wiki/It_Hurts)
+- [Mom's Knife](https://bindingofisaacrebirth.fandom.com/wiki/Mom%27s_Knife)
+- [Mom's Razor](https://bindingofisaacrebirth.fandom.com/wiki/Mom%27s_Razor)
+- [Pointy Rib](https://bindingofisaacrebirth.fandom.com/wiki/Pointy_Rib)
+- [Sacrificial Dagger](https://bindingofisaacrebirth.fandom.com/wiki/Sacrificial_Dagger)
+- [Screw](https://bindingofisaacrebirth.fandom.com/wiki/Screw)
+- [Spear of Destiny](https://bindingofisaacrebirth.fandom.com/wiki/Spear_Of_Destiny)
+- [Spirit Sword](https://bindingofisaacrebirth.fandom.com/wiki/Spirit_Sword)

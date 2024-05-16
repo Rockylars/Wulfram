@@ -61,6 +61,7 @@ Basically a mix of Isaac and The Beast, as should be obvious.
   - **Incarnate** is immune to contact damage.
 - Lower chance of curses
   - Your mere existence is a curse enough.
+  - If this is too difficult to add, change it to a 1/2 roll when entering a new floor where you lose the curse by evading it.
 
 
 - [Blessing of the damned](/docs/items/passive/okay/Blessing%20of%20the%20damned/idea.md)

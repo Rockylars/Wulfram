@@ -1,0 +1,32 @@
+Item pool that focuses on sack items and some stragglers.
+
+Active:
+- [IV Bag](https://bindingofisaacrebirth.fandom.com/wiki/IV_Bag)
+- [Spider Butt](https://bindingofisaacrebirth.fandom.com/wiki/Spider_Butt)
+- [Bag of Crafting](https://bindingofisaacrebirth.fandom.com/wiki/Bag_of_Crafting)
+
+Passive:
+- [Almond Milk](https://bindingofisaacrebirth.fandom.com/wiki/Almond_Milk)
+- [Black Powder](https://bindingofisaacrebirth.fandom.com/wiki/Black_Powder)
+- [Blood Bag](https://bindingofisaacrebirth.fandom.com/wiki/Blood_Bag)
+- [Blood Bombs](https://bindingofisaacrebirth.fandom.com/wiki/Blood_Bombs)
+- [Bomb Bag](https://bindingofisaacrebirth.fandom.com/wiki/Bomb_Bag)
+- [Bursting Sack](https://bindingofisaacrebirth.fandom.com/wiki/Bursting_Sack)
+- [Deep Pockets](https://bindingofisaacrebirth.fandom.com/wiki/Deep_Pockets)
+- [Greed's Gullet](https://bindingofisaacrebirth.fandom.com/wiki/Greed%27s_Gullet)
+- [Juicy Sack](https://bindingofisaacrebirth.fandom.com/wiki/Juicy_Sack)
+- [Keeper's Sack](https://bindingofisaacrebirth.fandom.com/wiki/Keeper%27s_Sack)
+- [Little Baggy](https://bindingofisaacrebirth.fandom.com/wiki/Little_Baggy)
+- [Mom's Coin Purse](https://bindingofisaacrebirth.fandom.com/wiki/Mom%27s_Coin_Purse)
+- [Mom's Purse](https://bindingofisaacrebirth.fandom.com/wiki/Mom%27s_Purse)
+- [Marbles](https://bindingofisaacrebirth.fandom.com/wiki/Marbles)
+- [Mystery Sack](https://bindingofisaacrebirth.fandom.com/wiki/Mystery_Sack)
+- [Orphan Socks](https://bindingofisaacrebirth.fandom.com/wiki/Orphan_Socks)
+- [Rune Bag](https://bindingofisaacrebirth.fandom.com/wiki/Rune_Bag)
+- [Sack Head](https://bindingofisaacrebirth.fandom.com/wiki/Sack_Head)
+- [Sack of Pennies](https://bindingofisaacrebirth.fandom.com/wiki/Sack_of_Pennies)
+- [Sack of Sacks](https://bindingofisaacrebirth.fandom.com/wiki/Sack_of_Sacks)
+- [Sausage](https://bindingofisaacrebirth.fandom.com/wiki/Sausage)
+- [Schoolbag](https://bindingofisaacrebirth.fandom.com/wiki/Schoolbag)
+- [Sticky Bombs](https://bindingofisaacrebirth.fandom.com/wiki/Sticky_Bombs)
+- [Squeezy](https://bindingofisaacrebirth.fandom.com/wiki/Squeezy)
