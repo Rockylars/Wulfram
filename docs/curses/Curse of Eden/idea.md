@@ -1,4 +1,4 @@
-**Name:** Curse of the Dice
+**Name:** Curse of Eden
 <br>
 **Icon:** Star shape
 
