@@ -6,7 +6,7 @@
 <br>
 **Quality:** 4
 <br>
-**Pools:** Library, Angel room, Treasure room, Shop
+**Pools:** Library, Angel room, Treasure room
 <br>
 **Transformation(s):** [Bookworm](https://bindingofisaacrebirth.fandom.com/wiki/Bookworm)
 <br>

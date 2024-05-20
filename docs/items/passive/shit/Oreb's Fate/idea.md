@@ -6,7 +6,7 @@
 <br>
 **Quality:** 0
 <br>
-**Pools:** Secret Room
+**Pools:** Curse room
 <br>
 **Transformation(s):** -
 <br>

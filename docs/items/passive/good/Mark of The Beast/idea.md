@@ -15,8 +15,8 @@
 **Abyss:** Shaped like the item
 
 - Adds an extra life with top priority on character revivals, but below normal revives.
-- Upon death, you respawn as [Incarnate](/docs/characters/Incarnate/idea.md).
-- If you also have [Hexakosioihexekontahexaphobia](/docs/items/passive/amazing/Hexakosioihexekontahexaphobia/idea.md), you will be teleported to the Mega Satan fight on the [Dark Room floor](https://bindingofisaacrebirth.fandom.com/wiki/Dark_Room).
+  - Upon death, you respawn as [Incarnate](/docs/characters/Incarnate/idea.md).
+    - If you also have [Hexakosioihexekontahexaphobia](/docs/items/passive/amazing/Hexakosioihexekontahexaphobia/idea.md), you will be teleported to the Mega Satan fight on the [Dark Room floor](https://bindingofisaacrebirth.fandom.com/wiki/Dark_Room).
 
 ---
 

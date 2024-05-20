@@ -6,11 +6,11 @@
 <br>
 **Quality:** 0
 <br>
-**Pools:** Curse room, Treasure room, Secret Room
+**Pools:** Curse room
 <br>
 **Transformation(s):** [Blue Blood](/docs/transformations/Blue%20Blood/idea.md)
 <br>
-**Costume:** Rock stuck in face like [The Small Rock](https://bindingofisaacrebirth.fandom.com/wiki/The_Small_Rock), just different
+**Costume:** Rock stuck in face like [The Small Rock](https://bindingofisaacrebirth.fandom.com/wiki/The_Small_Rock), just different, as well as blood around neck
 <br>
 **Abyss:** Shaped like the item
 

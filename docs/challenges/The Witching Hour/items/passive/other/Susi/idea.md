@@ -6,7 +6,7 @@
 <br>
 **Quality:** 2
 <br>
-**Pools:** Secret Room
+**Pools:** Secret room
 <br>
 **Abyss:** Shaped like the item
 

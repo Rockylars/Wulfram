@@ -102,7 +102,7 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 
 ### All Oreb's health changes:
 
-**Crow's Heart:**
+**Crow Heart:**
 - Red hearts: All need to be removed to trigger golden hearts.
 - Eternal hearts: Are now always the first to go.
 - Golden hearts: Now require you to have and damage a soul heart to trigger, rather damn difficult with that much red health.

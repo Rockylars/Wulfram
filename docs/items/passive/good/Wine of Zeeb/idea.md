@@ -10,7 +10,7 @@
 <br>
 **Transformation(s):** [Blue Blood](/docs/transformations/Blue%20Blood/idea.md)
 <br>
-**Costume:** Blood dripping from mouth
+**Costume:** Blood dripping from mouth, blood around neck
 <br>
 **Abyss:** Wine bottle
 

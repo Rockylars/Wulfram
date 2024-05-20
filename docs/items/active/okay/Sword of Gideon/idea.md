@@ -6,7 +6,7 @@
 <br>
 **Quality:** 1
 <br>
-**Pools:** Angel room, Treasure room
+**Pools:** Angel room, Secret room
 <br>
 **Transformation(s):** -
 <br>

@@ -6,7 +6,7 @@
 <br>
 **Quality:** 0
 <br>
-**Pools:** Secret room, Treasure room, Shop
+**Pools:** Treasure room, Shop
 <br>
 **Transformation(s):** -
 <br>

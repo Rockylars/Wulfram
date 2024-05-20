@@ -6,7 +6,7 @@
 <br>
 **Quality:** 2
 <br>
-**Pools:** Item room, Secret room, Angel room, Devil room, Familiar pool
+**Pools:** Item room, Familiar pool
 <br>
 **Transformation(s):** -
 <br>
