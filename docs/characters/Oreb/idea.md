@@ -46,25 +46,21 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 - One golden heart (on the black heart)
 
 **Oreb**'s stats are:
-- 1.20 speed
+- 1.30 speed
 - 3 luck
 - Flight
 - Feather shaped tears
+- 3.0 speed cap
 
 **Oreb** has the innate benefit and downside of:
-- [Q1] **Careless Command** - "Warfare at any cost"
-  - Will have a 1% chance to replace your tear with:
-    - Greed's Eye shot if money is above 15.
-    - Dr. Fetus shot if bombs are above 15.
-    - Sharp Key shot if keys are above 15.
+- [Careless Command](/docs/items/passive/shit/Careless%20Command/idea.md)
+  - Will have a 1% chance to replace your tear with an [Eye of Greed](https://bindingofisaacrebirth.fandom.com/wiki/Eye_of_Greed), [Dr. Fetus](https://bindingofisaacrebirth.fandom.com/wiki/Dr._Fetus) or [Sharp Key](https://bindingofisaacrebirth.fandom.com/wiki/Sharp_Key) shot if the respective pickup is above 15.
   - Firing this shot will still deduct the collectible in question.
-- [Q0] **Feather Flight** - "Speedy wings"
-  - Speed ups only give half their respective speed up.
-  - Speed up items follow this same logic.
-  - Speed down is also halved for playability reasons.
-  - Speed down items follow this same logic.
-  - All flight items give a massive 0.5 speed up.
+- [Eclipse](/docs/items/passive/amazing/Eclipse/idea.md)
+  - Speed up's/down's only give half their respective speed up.
+  - All wing items give a massive 0.5 speed up.
   - Grants flight
+  - Raises the speed cap to 3.0
 - [Q3] **Forsaken** - "Deuteronomy 28:20 - For your tainted soul, wicked mind and vexed body"
   - Devil deals now prioritize soul/black heart damage rather than red heart damage.
   - You can no longer gain angel rooms through conventional means.

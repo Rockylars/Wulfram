@@ -6,7 +6,7 @@
 <br>
 **Quality:** 2
 <br>
-**Pools:** Error room
+**Pools:** None
 <br>
 **Abyss:** Orb shaped
 

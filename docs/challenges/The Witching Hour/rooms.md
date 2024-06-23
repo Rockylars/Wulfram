@@ -85,7 +85,7 @@ Every sacrifice spawns a spell.
 **(Super) Secret room:**
 <br>
 Has a chance to either be a spell shop, wand shop or contain a wand or spell to grab.
-Has a chance to give an [Emerald Tablet](items/active/other/Tabula%20Smaragdina/idea.md) instead.
+Has a chance to give an [Emerald Tablet](items/active/Tabula%20Smaragdina/idea.md) instead.
 
 **Secret shop room:**
 <br>
