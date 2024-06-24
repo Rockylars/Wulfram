@@ -46,7 +46,7 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 - One golden heart (on the black heart)
 
 **Oreb**'s stats are:
-- 1.30 speed
+- 1.30 speed (and 0.70 minimum speed)
 - 3 luck
 - Flight
 - Feather shaped tears
@@ -61,7 +61,7 @@ Purple represents royalty and corruption the best, as well as being the soul sto
   - All wing items give a massive 0.5 speed up.
   - Grants flight
   - Raises the speed cap to 3.0
-- [Q3] **Forsaken** - "Deuteronomy 28:20 - For your tainted soul, wicked mind and vexed body"
+- [Forsaken](/docs/items/passive/okay/Forsaken/idea.md)
   - Devil deals now prioritize soul/black heart damage rather than red heart damage.
   - You can no longer gain angel rooms through conventional means.
   - All held/spawned soul hearts are converted to their respective black hearts.
@@ -70,29 +70,24 @@ Purple represents royalty and corruption the best, as well as being the soul sto
   - Allows you to shoot through rocks from close up, which is when spectral is most important.
   - If you already have an item that gives spectral, the tears will deal 1.5x damage at long range instead.
 - [Oreb's Fate](/docs/items/passive/shit/Oreb%27s%20Fate/idea.md)
-  - Losing an eternal heart will turn you into the **Lost** form for the rest of the floor.
-  - Losing an eternal heart will grant a temporary moderate tears up for the rest of the floor.
+  - Losing an eternal heart will turn you into **The Lost** form for the rest of the floor.
+  - Doing so also grants a moderate tears up for the rest of the floor.
+  - Also spawns a [Dead Bird](https://bindingofisaacrebirth.fandom.com/wiki/Dead_Bird) familiar for the duration of **The Lost** form.
 - [Q3] **Sinner's Remorse** - "A price to pay"
   - Angel deals are no longer a choice item.
   - They will cost money similar to Greed's angel deals.
   - You lose 2 luck for buying one of them.
   - They cost double the price compared to Greed.
   - **Oreb** can still rarely acquire these through angel deal red rooms, Stairway, etc.
-
-
+- [Q0] **Stolen Riches** - "May guilt weigh you down"
+  - Coins will severely diminish speed, 0.02 per coin.
+  - This downside will however consider speed stats above the cap before lowering.
+  - Enemies have a 10% chance to drop a penny upon death.
 - [Q2] **Warmonger** - "Through blood and tears"
-  - [*This item does not spawn for anyone else*]
   - Buffed version of [It Hurts](https://bindingofisaacrebirth.fandom.com/wiki/It_Hurts), lasting for 3 rooms.
   - Also a nerfed version, as this does not ignore the tear cap.
   - Releases only 6 tears, 4 in all the diagonal directions and 2 sideways.
   - The tears released inflict fear.
-- [Q0] **Stolen Riches** - "Full pockets"
-  - [*This item does not spawn for anyone else*]
-  - Coins will severely diminish speed, 0.02 per coin.
-  - This downside will however consider speed stats above the cap before lowering.
-- [Q1] **Undead Bird** - "Bird is big, and now he is small"
-  - [*This item does not spawn for anyone else*]
-  - Entering the **Lost** form will spawn a Dead Bird familiar for the duration of the **Lost** form.
 
 ---
 
