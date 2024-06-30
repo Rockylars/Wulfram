@@ -16,5 +16,7 @@
 **Atonement?**
 - **Oreb** gets angel deals thanks to the prior benefits, but they now work similar to [Blood Atonement](/docs/items/passive/okay/Blood Atonement/idea.md).
 - They can not be paid with black hearts.
+  - Unless you have Blood Atonement.
 - Angel deals require you to not take any damage.
+  - Unless you have Blood Atonement, which gives a guaranteed 15%.
 - Stairway angel deals still cost money.

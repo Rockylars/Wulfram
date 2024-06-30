@@ -51,6 +51,7 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 - Flight
 - Feather shaped tears
 - 3.0 speed cap
+- 5 contact damage per tick.
 
 **Oreb** has the innate benefit and downside of:
 - [Careless Command](/docs/items/passive/shit/Careless%20Command/idea.md)
@@ -69,25 +70,24 @@ Purple represents royalty and corruption the best, as well as being the soul sto
   - Spectral tears up to a short distance, after which they turn normal.
   - Allows you to shoot through rocks from close up, which is when spectral is most important.
   - If you already have an item that gives spectral, the tears will deal 1.5x damage at long range instead.
+  - Check if this item is even needed.
 - [Oreb's Fate](/docs/items/passive/shit/Oreb%27s%20Fate/idea.md)
   - Losing an eternal heart will turn you into **The Lost** form for the rest of the floor.
   - Doing so also grants a moderate tears up for the rest of the floor.
   - Also spawns a [Dead Bird](https://bindingofisaacrebirth.fandom.com/wiki/Dead_Bird) familiar for the duration of **The Lost** form.
+- [Stolen Riches](/docs/items/passive/shit/Stolen%20Riches/idea.md)
+  - Coins will severely diminish speed, 0.02 per coin.
+  - Enemies have a 10% chance to drop a penny upon death.
+- [Warmonger](/docs/items/passive/okay/Warmonger/idea.md)
+  - Reimagined version of [It Hurts](https://bindingofisaacrebirth.fandom.com/wiki/It_Hurts), longer lasting tears up but weaker and different tear pattern.
+
+TODO: Think of what to do with this one to either make it a personal item or make it more favorable.
 - [Q3] **Sinner's Remorse** - "A price to pay"
   - Angel deals are no longer a choice item.
   - They will cost money similar to Greed's angel deals.
   - You lose 2 luck for buying one of them.
   - They cost double the price compared to Greed.
   - **Oreb** can still rarely acquire these through angel deal red rooms, Stairway, etc.
-- [Q0] **Stolen Riches** - "May guilt weigh you down"
-  - Coins will severely diminish speed, 0.02 per coin.
-  - This downside will however consider speed stats above the cap before lowering.
-  - Enemies have a 10% chance to drop a penny upon death.
-- [Q2] **Warmonger** - "Through blood and tears"
-  - Buffed version of [It Hurts](https://bindingofisaacrebirth.fandom.com/wiki/It_Hurts), lasting for 3 rooms.
-  - Also a nerfed version, as this does not ignore the tear cap.
-  - Releases only 6 tears, 4 in all the diagonal directions and 2 sideways.
-  - The tears released inflict fear.
 
 ---
 

@@ -11,4 +11,4 @@
 - Is the second thing to take damage, a [Holy Mantle](https://bindingofisaacrebirth.fandom.com/wiki/Holy_Mantle) shield being the first.
 - More of a protective pendant than a heart.
 - Drops from the bird beggars upon killing them.
-- Has a 33% chance of replacing a dropped half soul heart.
+- Has a 33% chance of replacing a room reward half soul heart
