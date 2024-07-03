@@ -20,3 +20,5 @@
     - Similar to [Forsaken](../Forsaken/idea.md), no black heart benefit, has damage benefit
 - Gain a +3.33 damage up for every angel or fallen angel you defeat.
 - You can no longer gain angel rooms through conventional means.
+  - [Eucharist](https://bindingofisaacrebirth.fandom.com/wiki/Eucharist) instead gives a big tears up.
+  - [Blood Atonement](/docs/items/passive/okay/Blood%20Atonement) still works with it's 15%!

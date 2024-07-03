@@ -54,7 +54,7 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 - 5 contact damage per tick.
 
 **Oreb** has the innate benefit and downside of:
-- [Careless Command](/docs/items/passive/shit/Careless%20Command/idea.md)
+- [Klutz](/docs/items/passive/shit/Klutz/idea.md)
   - Will have a 1% chance to replace your tear with an [Eye of Greed](https://bindingofisaacrebirth.fandom.com/wiki/Eye_of_Greed), [Dr. Fetus](https://bindingofisaacrebirth.fandom.com/wiki/Dr._Fetus) or [Sharp Key](https://bindingofisaacrebirth.fandom.com/wiki/Sharp_Key) shot if the respective pickup is above 15.
   - Firing this shot will still deduct the collectible in question.
 - [Eclipse](/docs/items/passive/amazing/Eclipse/idea.md)
@@ -65,7 +65,7 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 - [Forsaken](/docs/items/passive/okay/Forsaken/idea.md)
   - Devil deals now prioritize soul/black heart damage rather than red heart damage.
   - You can no longer gain angel rooms through conventional means.
-  - All held/spawned soul hearts are converted to their respective black hearts.
+  - All soul hearts are converted to their respective black hearts.
 - [Q2] **Hyperopia** - "Farsighted"
   - Spectral tears up to a short distance, after which they turn normal.
   - Allows you to shoot through rocks from close up, which is when spectral is most important.
@@ -78,7 +78,7 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 - [Stolen Riches](/docs/items/passive/shit/Stolen%20Riches/idea.md)
   - Coins will severely diminish speed, 0.02 per coin.
   - Enemies have a 10% chance to drop a penny upon death.
-- [Warmonger](/docs/items/passive/okay/Warmonger/idea.md)
+- [It scares me](/docs/items/passive/okay/It%20scares%20me/idea.md)
   - Reimagined version of [It Hurts](https://bindingofisaacrebirth.fandom.com/wiki/It_Hurts), longer lasting tears up but weaker and different tear pattern.
 
 TODO: Think of what to do with this one to either make it a personal item or make it more favorable.

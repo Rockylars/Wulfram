@@ -16,4 +16,6 @@
 
 - Devil deals now prioritize soul/black heart damage rather than red heart damage.
 - You can no longer gain angel rooms through conventional means.
-- All held/spawned soul hearts are converted to their respective black hearts.
+  - [Eucharist](https://bindingofisaacrebirth.fandom.com/wiki/Eucharist) instead gives a big tears up.
+  - [Blood Atonement](/docs/items/passive/okay/Blood%20Atonement) still works with it's 15%!
+- All soul hearts are converted to their respective black hearts.

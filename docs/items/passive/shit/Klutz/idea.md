@@ -1,8 +1,8 @@
-**Item:** Careless Command
+**Item:** Klutz
 <br>
-**Text:** Warfare at any cost
+**Text:** Oopsie!
 <br>
-**Appearance:** Sword and coin
+**Appearance:** Flying coin
 <br>
 **Quality:** 1
 <br>

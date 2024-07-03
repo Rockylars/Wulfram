@@ -24,6 +24,7 @@
   - Even works when you have [Goat Head](https://bindingofisaacrebirth.fandom.com/wiki/Goat_Head), reducing the devil deal chance to 85%.
   - Will work with [Duality](https://bindingofisaacrebirth.fandom.com/wiki/Duality).
     - If you then also have [Blessing of the damned](/docs/items/passive/okay/Blessing%20of%20the%20damned/idea.md), the minimum chance is combined to 30%.
+  - Still works even with the angel deal denying [Fallen](/docs/items/passive/okay/Fallen/idea.md) and [Forsaken](/docs/items/passive/okay/Forsaken/idea.md) items.
 
 ---
 
