@@ -183,9 +183,10 @@ You will spew out random flames around you while charging the knife.
 The tears you fire, which are fires, spread out way more and can come in multiple layers with multi shot items.
 You gain more actual range but lose some accuracy.
 
-**[Mutant Spider](https://bindingofisaacrebirth.fandom.com/wiki/Mutant_Spider):** *better*
+**[Mutant Spider](https://bindingofisaacrebirth.fandom.com/wiki/Mutant_Spider):** *way better*
 <br>
-Adds 3 extra semicircles of fire beyond your normal one.
+Adds 3 extra semicircles of fire beyond your normal one, which can end up filling the whole room if combined with others.
+Guaranteed to fill a quarter of the room.
 
 **[My Reflection](https://bindingofisaacrebirth.fandom.com/wiki/My_Reflection):** *same*
 <br>
