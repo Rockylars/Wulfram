@@ -6,7 +6,7 @@
 <br>
 **Quality:** 3
 <br>
-**Pools:** Stone chest, Treasure room, Shop
+**Pools:** Stone chest, Treasure room
 <br>
 **Transformation(s):** -
 <br>

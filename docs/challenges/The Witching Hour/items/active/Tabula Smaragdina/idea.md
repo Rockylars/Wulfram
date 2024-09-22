@@ -6,7 +6,7 @@
 <br>
 **Quality:** 4
 <br>
-**Pools:** Secret Room
+**Pools:** Secret room
 <br>
 **Charges:** One-time use
 <br>

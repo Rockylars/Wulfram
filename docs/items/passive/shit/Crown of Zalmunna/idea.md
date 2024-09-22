@@ -6,7 +6,7 @@
 <br>
 **Quality:** 0
 <br>
-**Pools:** Sacrifice room, Secret room, Devil deal, Angel deal
+**Pools:** Secret room, Curse room
 <br>
 **Transformation(s):** [Blue Blood](/docs/transformations/Blue%20Blood/idea.md)
 <br>

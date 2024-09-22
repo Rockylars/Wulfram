@@ -46,36 +46,42 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 - One golden heart (on the black heart)
 
 **Oreb**'s stats are:
-- 1.20 speed
+- 1.30 speed (and 0.70 minimum speed)
 - 3 luck
 - Flight
 - Feather shaped tears
+- 3.0 speed cap
+- 5 contact damage per tick.
 
 **Oreb** has the innate benefit and downside of:
-- [Q1] **Careless Command** - "Warfare at any cost"
-  - Will have a 1% chance to replace your tear with:
-    - Greed's Eye shot if money is above 15.
-    - Dr. Fetus shot if bombs are above 15.
-    - Sharp Key shot if keys are above 15.
+- [Klutz](/docs/items/passive/shit/Klutz/idea.md)
+  - Will have a 1% chance to replace your tear with an [Eye of Greed](https://bindingofisaacrebirth.fandom.com/wiki/Eye_of_Greed), [Dr. Fetus](https://bindingofisaacrebirth.fandom.com/wiki/Dr._Fetus) or [Sharp Key](https://bindingofisaacrebirth.fandom.com/wiki/Sharp_Key) shot if the respective pickup is above 15.
   - Firing this shot will still deduct the collectible in question.
-- [Q0] **Feather Flight** - "Speedy wings"
-  - Speed ups only give half their respective speed up.
-  - Speed up items follow this same logic.
-  - Speed down is also halved for playability reasons.
-  - Speed down items follow this same logic.
-  - All flight items give a massive 0.5 speed up.
+- [Eclipse](/docs/items/passive/amazing/Eclipse/idea.md)
+  - Speed up's/down's only give half their respective speed up.
+  - All wing items give a massive 0.5 speed up.
   - Grants flight
-- [Q3] **Forsaken** - "Deuteronomy 28:20 - For your tainted soul, wicked mind and vexed body"
+  - Raises the speed cap to 3.0
+- [Forsaken](/docs/items/passive/okay/Forsaken/idea.md)
   - Devil deals now prioritize soul/black heart damage rather than red heart damage.
   - You can no longer gain angel rooms through conventional means.
-  - All held/spawned soul hearts are converted to their respective black hearts.
+  - All soul hearts are converted to their respective black hearts.
 - [Q2] **Hyperopia** - "Farsighted"
   - Spectral tears up to a short distance, after which they turn normal.
   - Allows you to shoot through rocks from close up, which is when spectral is most important.
   - If you already have an item that gives spectral, the tears will deal 1.5x damage at long range instead.
+  - Check if this item is even needed.
 - [Oreb's Fate](/docs/items/passive/shit/Oreb%27s%20Fate/idea.md)
-  - Losing an eternal heart will turn you into the **Lost** form for the rest of the floor.
-  - Losing an eternal heart will grant a temporary moderate tears up for the rest of the floor.
+  - Losing an eternal heart will turn you into **The Lost** form for the rest of the floor.
+  - Doing so also grants a moderate tears up for the rest of the floor.
+  - Also spawns a [Dead Bird](https://bindingofisaacrebirth.fandom.com/wiki/Dead_Bird) familiar for the duration of **The Lost** form.
+- [Stolen Riches](/docs/items/passive/shit/Stolen%20Riches/idea.md)
+  - Coins will severely diminish speed, 0.02 per coin.
+  - Enemies have a 10% chance to drop a penny upon death.
+- [It scares me](/docs/items/passive/okay/It%20scares%20me/idea.md)
+  - Reimagined version of [It Hurts](https://bindingofisaacrebirth.fandom.com/wiki/It_Hurts), longer lasting tears up but weaker and different tear pattern.
+
+TODO: Think of what to do with this one to either make it a personal item or make it more favorable.
 - [Q3] **Sinner's Remorse** - "A price to pay"
   - Angel deals are no longer a choice item.
   - They will cost money similar to Greed's angel deals.
@@ -83,26 +89,11 @@ Purple represents royalty and corruption the best, as well as being the soul sto
   - They cost double the price compared to Greed.
   - **Oreb** can still rarely acquire these through angel deal red rooms, Stairway, etc.
 
-
-- [Q2] **Warmonger** - "Through blood and tears"
-  - [*This item does not spawn for anyone else*]
-  - Buffed version of [It Hurts](https://bindingofisaacrebirth.fandom.com/wiki/It_Hurts), lasting for 3 rooms.
-  - Also a nerfed version, as this does not ignore the tear cap.
-  - Releases only 6 tears, 4 in all the diagonal directions and 2 sideways.
-  - The tears released inflict fear.
-- [Q0] **Stolen Riches** - "Full pockets"
-  - [*This item does not spawn for anyone else*]
-  - Coins will severely diminish speed, 0.02 per coin.
-  - This downside will however consider speed stats above the cap before lowering.
-- [Q1] **Undead Bird** - "Bird is big, and now he is small"
-  - [*This item does not spawn for anyone else*]
-  - Entering the **Lost** form will spawn a Dead Bird familiar for the duration of the **Lost** form.
-
 ---
 
 ### All Oreb's health changes:
 
-**Crow's Heart:**
+**Crow Heart:**
 - Red hearts: All need to be removed to trigger golden hearts.
 - Eternal hearts: Are now always the first to go.
 - Golden hearts: Now require you to have and damage a soul heart to trigger, rather damn difficult with that much red health.

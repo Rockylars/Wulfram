@@ -6,7 +6,7 @@
 <br>
 **Quality:** 1
 <br>
-**Pools:** Sacrifice room, Secret room, Devil deal, Angel deal
+**Pools:** Secret room, Devil deal, Angel deal
 <br>
 **Transformation(s):** [Blue Blood](/docs/transformations/Blue%20Blood/idea.md)
 <br>
@@ -15,6 +15,7 @@
 **Abyss:** Shaped like the item
 
 - Adds an extra sacrifice room on every floor where one would spawn.
+  - Will have its own counter, this is already a mechanic.
 - Triples the chance of getting one, which also highly reduces the chance of finding a dice room.
 - **Oreb**, **Tainted Oreb**: Picking this up will activate the Paralysis pill.
 

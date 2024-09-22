@@ -6,8 +6,8 @@ In biblical terms, crows are seen as both harbingers of good and evil.
 They are God's providence and messengers of God’s judgment.
 They taught Cain how to bury Abel, they have fed Elijah when he was at his lowest, but they have also been an omen directly associated with death.
 
-Oreb is not so lucky, his people have brought tyrannical rule over Israel for 7 years.
-God has brought Gideon to overthrow the Midians, descendents of Abraham (father of Isaac).
+Oreb is not one to be blessed. His people (the Midians) have brought tyrannical rule over Israel for 7 years.
+God has brought Gideon to overthrow the Midians, group from the descendent of Abraham (father of Isaac).
 Abandoned by God, he now tries to hide from his unaltered, unchanging fate, perhaps already having been through it.
 The underground bids him a final resting place before they strike, but already his worries have caught up to him.
 Will you guide Oreb to his fate, or will you sway the odds?
@@ -24,7 +24,7 @@ Adds 4 (not all directly playable) characters!
 
 **Oreb**: (The Forsaken)
 <br>
-Crow's heart could only imitate the deception this bird brings.
+Crow heart could only imitate the deception this bird brings.
 His health works entirely opposite, taking Red Hearts first but only losing Devil Deal chance upon taking Soul Heart damage.
 He is more cursed than royal blood could offset however, his feathers can't hold collectibles that well and losing an Eternal Heart brings a stark reminder to his dire fate.
 His soul is tainted, but the Devil seems to approve of it more than his battle worn royal body.

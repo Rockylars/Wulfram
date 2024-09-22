@@ -6,7 +6,7 @@
 <br>
 **Quality:** 1
 <br>
-**Pools:** Angel room, Stone chest, Confessional
+**Pools:** Angel room
 <br>
 **Transformation(s):** -
 <br>
@@ -15,6 +15,7 @@
 **Abyss:** Bird shaped
 
 - Spawns a random beggar in every room, yes, every room.
+  - This includes the bird beggars.
 
 ---
 

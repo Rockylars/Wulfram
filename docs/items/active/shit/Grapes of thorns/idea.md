@@ -6,7 +6,7 @@
 <br>
 **Quality:** 3
 <br>
-**Pools:** Secret room, Curse room
+**Pools:** Devil deal
 <br>
 **Transformation(s):** -
 <br>

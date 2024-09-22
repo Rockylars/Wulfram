@@ -72,11 +72,6 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 
 **Tainted Oreb** has the innate benefit and downside of:
 - [Eye of Greed](https://bindingofisaacrebirth.fandom.com/wiki/Eye_of_Greed)
-- [Q3] **Fallen** - "Oh, they're goin' ta have to glue you back together... IN HELL!"
-  - [*This item does not spawn for anyone else*]
-  - Devil deals now prioritize soul/black heart damage rather than red heart damage.
-  - You can no longer gain angel rooms through conventional means.
-  - Similar to Forsaken but without the black heart conversion benefit.
 - Better shops
   - All shops are max size **Tainted Keeper** shops.
   - All items are from every pool, like Chaos
@@ -87,13 +82,15 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 - Soul collection
   - Soul hearts are absorbed into a **Bethany** soul charge meter.
   - Eternal hearts are collected as well, accounting for 3 charges each.
-- Guarded item rooms
-  - The item room is now guarded by an angel statue that will come to life as soon as you pick the item up.
 - [Blessing of the Damned](/docs/items/passive/okay/Blessing%20of%20the%20damned/idea.md)
   - Devil deals now offer choice pedestals at no cost.
-- [Q0] Hated
+- [Fallen](/docs/items/passive/okay/Fallen/idea.md)
   - Taking a devil deal item will turn the devil statue into a fallen angel.
-  - Taking a treasure room item will spawn an angel.
+  - The treasure room is now guarded by an angel statue that will come to life as soon as you pick the item up.
+  - Devil deals now prioritize soul/black heart damage rather than red heart damage.
+    - Similar to Forsaken, no black heart benefit, has damage benefit
+  - Gain a +3.33 damage up for every angel or fallen angel you defeat.
+  - You can no longer gain angel rooms through conventional means.
 
 ---
 
@@ -124,4 +121,4 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 
 ### How do Tainted Oreb's Silver Item Rooms in Greed Mode get changed?
 
-Normal item rooms do stay changed in fact, 
+Normal item rooms do stay changed in fact, but the silver ones allow you to keep the item.
