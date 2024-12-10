@@ -14,5 +14,5 @@
 <br>
 **Abyss:** Shaped like the item
 
-- Adds a flying raven familiar that goes straight at enemies below half health, dealing contact damage.
+- Adds a flying raven familiar that goes straight at enemies (moves somewhat like **Dark Esau**) below half health, dealing contact damage.
 - Blocks tears and damages anything it runs into.

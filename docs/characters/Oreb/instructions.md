@@ -1,0 +1,5 @@
+- Shows he has [Crow Heart](https://bindingofisaacrebirth.fandom.com/wiki/Crow_Heart) and how it affects his health
+- Shows he has [Forsaken](/docs/items/passive/okay/Forsaken/idea.md) and how red heart loss is okay for devil deals and soul heart loss is bad.
+- Shows he has [Eclipse](/docs/items/passive/amazing/Eclipse/idea.md) and can use extra wings to break the speed cap.
+- Shows he has [Oreb's Fate](/docs/items/passive/shit/Oreb%27s%20Fate/idea.md) and must be careful with losing Eternal hearts.
+- Shows he has [Stolen Riches](/docs/items/passive/shit/Stolen%20Riches/idea.md) and will lose speed with money.

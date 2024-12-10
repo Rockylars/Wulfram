@@ -16,7 +16,7 @@
 
 - Petrifies all enemies for 3 seconds.
 - Grants glowing purple tears with the effect of [Brain Worm](https://bindingofisaacrebirth.fandom.com/wiki/Brain_Worm), [Strange Attractor](https://bindingofisaacrebirth.fandom.com/wiki/Strange_Attractor) and [Ring Worm](https://bindingofisaacrebirth.fandom.com/wiki/Ring_Worm) for the room.
-- Grants a 2x damage up for the room.
+- Grants a 2x damage up for the room, but the effect diminishes in 10 seconds.
 
 ---
 

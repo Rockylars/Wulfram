@@ -77,8 +77,8 @@ Purple represents royalty and corruption the best, as well as being the soul sto
   - All items are from every pool, like Chaos
   - All items are quality 2 or higher.
 - Skeletal bird
-  - Can only hold black hearts, golden hearts and empty bone hearts.
-  - Health rotates every room, shifting the black hearts, golden hearts and bone hearts around.
+  - Can only hold black hearts, golden hearts, empty bone hearts, bird skulls and crow skulls.
+  - Health rotates every room, shifting the all the heart positions around randomly.
 - Soul collection
   - Soul hearts are absorbed into a **Bethany** soul charge meter.
   - Eternal hearts are collected as well, accounting for 3 charges each.
@@ -97,8 +97,8 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 ### All Tainted Oreb's health changes:
 
 **Innate restrictions:**
-- Health rotates every room, shifting the black hearts, golden hearts and bone hearts around.
-- Can only hold black hearts and empty bone hearts.
+- Health rotates every room, shifting all the hearts randomly around.
+- Can only hold black hearts, golden hearts, empty bone hearts, bird skulls and crow skulls
 
 **Innate:**
 - Red hearts: Each half/full heart spawns as a single penny.

@@ -14,7 +14,7 @@
 <br>
 **Abyss:** Sword shaped
 
-- Turns you into a [Mom's Knife](https://bindingofisaacrebirth.fandom.com/wiki/Mom%27s_Knife) + [Loki's Horns](https://bindingofisaacrebirth.fandom.com/wiki/Loki%27s_Horns) fidget spinner for 10 seconds.
+- Turns you into a [Sacrifical Dagger](https://bindingofisaacrebirth.fandom.com/wiki/Sacrificial_Dagger) + [Spin to Win](https://bindingofisaacrebirth.fandom.com/wiki/Spin_to_Win) fidget spinner for 10 seconds.
 - Plays a trumpet sound as a command for war when activated.
 - Plays sounds of rocks and jars breaking for the duration.
 
