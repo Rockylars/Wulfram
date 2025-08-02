@@ -8,7 +8,9 @@
 <br>
 **Pools:** Ultra secret room
 <br>
-**Abyss:** Orb shaped
+**Abyss:** Homing + piercing locust
+<br>
+**Abyss++:** Orb shaped
 
 - Spawns the spell displayed inside as an item.
 - Increases Mom's health.

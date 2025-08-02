@@ -10,7 +10,9 @@
 <br>
 **Charges:** One-time use
 <br>
-**Abyss:** Shaped like the item
+**Abyss:** Terra locust
+<br>
+**Abyss++:** Shaped like the item
 
 - Equips as a pocket item.
 - Works like [Sädeviki](https://noita.wiki.gg/wiki/S%C3%A4dekivi), but allows you to use it as simply an active item for ease of use.

@@ -8,7 +8,9 @@
 <br>
 **Pools:** Golden chest, Secret room, Curse room, Super secret room, Vault room
 <br>
-**Abyss:** Shaped like the item
+**Abyss:** Homing + terra locust
+<br>
+**Abyss++:** Shaped like the item
 
 - Refreshes all limited-use spells with their original stock.
 - Does not spawn outside the challenge.

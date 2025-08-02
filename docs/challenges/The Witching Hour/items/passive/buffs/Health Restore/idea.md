@@ -8,7 +8,9 @@
 <br>
 **Pools:** Golden chest, Secret room, Curse room, Vault room
 <br>
-**Abyss:** Heart shaped
+**Abyss:** Homing locust
+<br>
+**Abyss++:** Heart shaped
 
 - Adds 1 full red heart container and heals all red heart containers to full.
 - Spawns on the starting room of every floor except the first.

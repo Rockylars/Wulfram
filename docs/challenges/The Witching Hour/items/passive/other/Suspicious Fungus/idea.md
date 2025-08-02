@@ -8,7 +8,9 @@
 <br>
 **Pools:** Secret room
 <br>
-**Abyss:** Shaped like the item
+**Abyss:** Glitch locust
+<br>
+**Abyss++:** Shaped like the item
 
 1. Distorts your screen like [Wavy Cap](https://bindingofisaacrebirth.fandom.com/wiki/Wavy_Cap) for 10 seconds, getting progressively worse.
    - Plays the use sound, as you're actively using it without the stat up.

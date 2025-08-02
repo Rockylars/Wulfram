@@ -10,7 +10,9 @@
 <br>
 **Charges:** One-time use
 <br>
-**Abyss:** Shaped like the item
+**Abyss:** Knockout + terra locust
+<br>
+**Abyss++:** Shaped like the item
 
 - Equips as a pocket item.
 - Using it will throw it towards an enemy, dealing insane damage with piercing if it kills the enemy.

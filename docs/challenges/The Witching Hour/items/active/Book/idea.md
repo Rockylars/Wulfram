@@ -10,7 +10,9 @@
 <br>
 **Charges:** One-time use
 <br>
-**Abyss:** Shaped like the item
+**Abyss:** Knockout locust
+<br>
+**Abyss++:** Shaped like the item
 
 - Works exactly like [Tabula Smaragdina](../Tabula%20Smaragdina/idea.md).
   - Using it instead of throwing it will display a line from one of the book texts.

@@ -8,7 +8,9 @@
 <br>
 **Pools:** None
 <br>
-**Abyss:** Orb shaped
+**Abyss:** Homing + piercing + glitch + fear locust
+<br>
+**Abyss++:** Orb shaped
 
 - Adds 2 empty red heart containers.
 - Increases Mom's health.
