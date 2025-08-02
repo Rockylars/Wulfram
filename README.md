@@ -6,7 +6,7 @@ In biblical terms, crows are seen as both harbingers of good and evil.
 They are God's providence and messengers of God’s judgment.
 They taught Cain how to bury Abel, they have fed Elijah when he was at his lowest, but they have also been an omen directly associated with death.
 
-Oreb is not one to be blessed. His people (the Midians) have brought tyrannical rule over Israel for 7 years after Israelw ent back to Baal for their belief and God thus abandoned their protection.
+Oreb is not one to be blessed. His people (the Midians) have brought tyrannical rule over Israel for 7 years after Israel went back to Baal for their belief and God thus abandoned their protection.
 God has brought Gideon to overthrow the Midians for the punishment has been enough.
 Although ironically their group comes from the descendent of Abraham (father of Isaac).
 He has run away from his unaltered, unchanging fate, perhaps already having been through it but unknowing.

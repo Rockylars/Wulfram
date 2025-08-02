@@ -3,3 +3,4 @@
 - Shows he has [Eclipse](/docs/items/passive/amazing/Eclipse/idea.md) and can use extra wings to break the speed cap.
 - Shows he has [Oreb's Fate](/docs/items/passive/shit/Oreb%27s%20Fate/idea.md) and must be careful with losing Eternal hearts.
 - Shows he has [Stolen Riches](/docs/items/passive/shit/Stolen%20Riches/idea.md) and will lose speed with money.
+- Shows he takes no damage from spiked rocks.

@@ -1,0 +1,37 @@
+- brimstone
+- backstab
+- glitch
+- burn
+- extra damage
+- holy light
+- godhead aura
+- midas
+- big creep
+- reroll (d10)
+- poison
+- small creep
+- petrify
+- shock
+- freeze
+- shield
+- fear
+- homing
+- bomb
+- athame
+- slow
+- knife
+- many (gives many flies upon abyssing)
+- concuss
+- knockback
+- terra
+- magnetic
+- necronomicon
+- growth
+- dash
+- fart
+- soy
+- shrink
+- black hole
+- larynx
+- little horn
+- erase

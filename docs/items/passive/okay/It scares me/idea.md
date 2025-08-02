@@ -12,7 +12,9 @@
 <br>
 **Costume:** Sweat over Isaac's face and a fearful expression, fire around Isaac's hands.
 <br>
-**Abyss:** Blood teardrop
+**Abyss:** Fear locust
+<br>
+**Abyss++:** Blood teardrop
 
 - Acts as a reimagining of [It Hurts](https://bindingofisaacrebirth.fandom.com/wiki/It_Hurts).
 - Gives Isaac contact damage, though always set at 5 damage per tick.

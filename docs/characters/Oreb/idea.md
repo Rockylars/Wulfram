@@ -16,14 +16,19 @@
 ### The concept:
 
 The idea for **Oreb** is very much focused on crows/ravens, corrupt hearts, being killed by Gideon, having shunned God and especially [Crow Heart](https://bindingofisaacrebirth.fandom.com/wiki/Crow_Heart).
-Health for **Oreb** should work entirely opposite, with the challenge being to spend as much money as possible.
-His innate and buffed [It Hurts](https://bindingofisaacrebirth.fandom.com/wiki/It_Hurts) encourages sacrifice far more, especially now that the rare soul heart is no longer damaged and devil chance is lost in less ways.
+
+Health for **Oreb** should work entirely opposite, confusing people in how every item now affects him.
+Eternal hearts are very dangerous to hold as the first hit you take will destroy them and turn you into **The Lost**.
+His innate and buffed [It Hurts](https://bindingofisaacrebirth.fandom.com/wiki/It_Hurts) encourages sacrifice far more, especially now that the rare soul heart is no longer damaged first and devil chance is lost in less ways.
+
+His challenge is to spend as much money as possible as soon as possible as enemies have a chance to drop it and it slows him down.
+On later floors they will be shot out due to [Klutz](/docs/items/passive/shit/Klutz/idea.md), so there's no need for something like [Silver Dollar](https://bindingofisaacrebirth.fandom.com/wiki/Silver_Dollar).
 
 ---
 
 ### The visual:
 
-Crow character with a visible beak, nothing more to be said.
+Crow character with a visible beak, even if his name meant "raven", they look the same.
 Should start with purple eyes due to having black feathers all over the body and head.
 Purple represents royalty and corruption the best, as well as being the soul stone color.
 
@@ -50,13 +55,16 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 - 3 luck
 - Flight
 - Feather shaped tears
-- 3.0 speed cap
-- 5 contact damage per tick.
+- 3.0 speed cap outside of combat
+- 5 contact damage per tick
+- Immunity to spike rock damage
 
 **Oreb** has the innate benefit and downside of:
 - [Klutz](/docs/items/passive/shit/Klutz/idea.md)
-  - Will have a 1% chance to replace your tear with an [Eye of Greed](https://bindingofisaacrebirth.fandom.com/wiki/Eye_of_Greed), [Dr. Fetus](https://bindingofisaacrebirth.fandom.com/wiki/Dr._Fetus) or [Sharp Key](https://bindingofisaacrebirth.fandom.com/wiki/Sharp_Key) shot if the respective pickup is above 15.
+  - Will have a 5% chance to replace your tear with an [Eye of Greed](https://bindingofisaacrebirth.fandom.com/wiki/Eye_of_Greed), [Dr. Fetus](https://bindingofisaacrebirth.fandom.com/wiki/Dr._Fetus) or [Sharp Key](https://bindingofisaacrebirth.fandom.com/wiki/Sharp_Key) shot if the respective pickup is above 15.
+    - Oreb has a higher chance to fire pennies.
   - Firing this shot will still deduct the collectible in question.
+  - You will be able to use this to get rid of coins on later floors.
 - [Eclipse](/docs/items/passive/amazing/Eclipse/idea.md)
   - Speed up's/down's only give half their respective speed up.
   - All wing items give a massive 0.5 speed up.
@@ -78,6 +86,7 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 - [Stolen Riches](/docs/items/passive/shit/Stolen%20Riches/idea.md)
   - Coins will severely diminish speed, 0.02 per coin.
   - Enemies have a 10% chance to drop a penny upon death.
+  - Sometimes gives golden hearts.
 - [It scares me](/docs/items/passive/okay/It%20scares%20me/idea.md)
   - Reimagined version of [It Hurts](https://bindingofisaacrebirth.fandom.com/wiki/It_Hurts), longer lasting tears up but weaker and different tear pattern.
 
