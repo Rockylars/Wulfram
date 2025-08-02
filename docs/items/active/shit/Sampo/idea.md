@@ -12,7 +12,9 @@
 <br>
 **Charges:** one-time use
 <br>
-**Abyss:** [Light blue gear](https://noita.wiki.gg/wiki/Sampo)
+**Abyss:** Glitch + midas locust
+<br>
+**Abyss++:** [Light blue gear](https://noita.wiki.gg/wiki/Sampo)
 
 This item is rather complicated, but it will go through the following process to figure out what it will activate.
 It'll probably be not what you wanted.

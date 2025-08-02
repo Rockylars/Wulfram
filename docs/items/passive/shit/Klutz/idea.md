@@ -12,7 +12,9 @@
 <br>
 **Costume:** Eyes removed
 <br>
-**Abyss:** Penny shaped
+**Abyss:** Midas + bomb (+ sharp key?) locust
+<br>
+**Abyss++:** Penny shaped
 
 - Will have a 5% chance to replace your tear with:
   - [Eye of Greed](https://bindingofisaacrebirth.fandom.com/wiki/Eye_of_Greed) shot if money is above 15.

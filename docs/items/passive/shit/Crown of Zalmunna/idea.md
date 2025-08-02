@@ -1,6 +1,6 @@
 **Item:** Crown of Zalmunna
 <br>
-**Text:** Bright beginning, withheld shadow, lost protection
+**Text:** Bright beginning, lost protection
 <br>
 **Appearance:** Dull and bright crown, darkening and chipped at one side
 <br>
@@ -12,7 +12,9 @@
 <br>
 **Costume:** Same crown on top of head, blood around neck
 <br>
-**Abyss:** Shaped like the item
+**Abyss:** Shock locust
+<br>
+**Abyss++:** Shaped like the item
 
 - Removes all charge at the end of a boss room.
 - Recharges your active item fully at the start of a floor.

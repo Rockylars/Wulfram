@@ -12,7 +12,9 @@
 <br>
 **Costume:** Straight feathers alongside the cheeks, blood marks as well
 <br>
-**Abyss:** Shaped like the item
+**Abyss:** Dash + piercing + shield locust.
+<br>
+**Abyss++:** Shaped like the item
 
 - Adds a flying raven familiar that goes straight at enemies (moves somewhat like **Dark Esau**) below half health, dealing contact damage.
 - Blocks tears and damages anything it runs into.

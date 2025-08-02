@@ -12,7 +12,9 @@
 <br>
 **Costume:** Same crown on top of head, blood around neck
 <br>
-**Abyss:** Shaped like the item
+**Abyss:** Normal locust
+<br>
+**Abyss++:** Shaped like the item
 
 - Adds an extra sacrifice room on every floor where one would spawn.
   - Will have its own counter, this is already a mechanic.

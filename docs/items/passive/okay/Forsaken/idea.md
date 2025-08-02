@@ -12,7 +12,9 @@
 <br>
 **Costume:** Streaks of blood all over Isaac's body
 <br>
-**Abyss:** White and red orb
+**Abyss:** Normal locust
+<br>
+**Abyss++:** White and red orb
 
 - Devil deals now prioritize soul/black heart damage rather than red heart damage.
 - You can no longer gain angel rooms through conventional means.

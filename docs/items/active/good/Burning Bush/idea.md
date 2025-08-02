@@ -12,7 +12,9 @@
 <br>
 **Charges:** 1 pip
 <br>
-**Abyss:** Bush shaped
+**Abyss:** Burn + piercing locust
+<br>
+**Abyss++:** Flame shaped
 
 - Turns you into a flamethrower like **Incarnate**'s many synergies for 3 seconds.
 

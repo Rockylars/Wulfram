@@ -12,7 +12,9 @@
 <br>
 **Costume:** Smile with golden teeth
 <br>
-**Abyss:** Penny
+**Abyss:** Midas locust
+<br>
+**Abyss++:** Penny
 
 - Held pennies will severely diminish speed, 0.02 per coin.
   - At 99 you will be left with a -1.98 speed.

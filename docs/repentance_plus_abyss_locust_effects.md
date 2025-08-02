@@ -6,23 +6,27 @@
 - holy light
 - godhead aura
 - midas
-- big creep
+- large creep
+- piercing
+- bone (split)
 - reroll (d10)
 - poison
-- small creep
+- creep
 - petrify
 - shock
 - freeze
 - shield
 - fear
 - homing
+- charm
+- poop
 - bomb
 - athame
 - slow
 - knife
 - many (gives many flies upon abyssing)
 - concuss
-- knockback
+- knockout
 - terra
 - magnetic
 - necronomicon
@@ -31,7 +35,7 @@
 - fart
 - soy
 - shrink
-- black hole
+- rift
 - larynx
 - little horn
 - erase

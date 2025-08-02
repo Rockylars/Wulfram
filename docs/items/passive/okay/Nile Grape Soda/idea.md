@@ -13,6 +13,8 @@
 **Costume:** Plastic gloves on hands, purple juice over face, red and blue eyes
 <br>
 **Abyss:** Bottle shaped
+<br>
+**Abyss++:** Shock locust
 
 - Gives a chance (15 or 25% maybe?) of gaining an extra pip per room clear.
 - Removes all charge upon entering the next floor.

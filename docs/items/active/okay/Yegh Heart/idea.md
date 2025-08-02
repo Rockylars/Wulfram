@@ -12,7 +12,9 @@
 <br>
 **Charges:** 4 pips
 <br>
-**Abyss:** Heart shaped
+**Abyss:** Bone locust
+<br>
+**Abyss++:** Heart shaped
 
 - 25% chance to converts a red heart container into a bone heart
   - Guaranteed to convert if you can no longer gain any new hearts and have red heart containers.

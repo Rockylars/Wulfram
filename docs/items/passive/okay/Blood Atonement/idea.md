@@ -12,7 +12,9 @@
 <br>
 **Costume:** Blood dripping down body with a cut in the body, holy eyes
 <br>
-**Abyss:** Knife shaped
+**Abyss:** Normal locust
+<br>
+**Abyss++:** Knife shaped
 
 - Reverse of [Blessing of the damned](/docs/items/passive/okay/Blessing%20of%20the%20damned/idea.md).
 - Angel deals now allow you to pay for the items similar to devil deals.

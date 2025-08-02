@@ -12,9 +12,11 @@
 <br>
 **Costume:** Gold cube embedded in top of head
 <br>
-**Abyss:** Shaped like the item
+**Abyss:** Midas locust (make it normal?)
+<br>
+**Abyss++:** Shaped like the item
 
-- Rotten hearts become red hearts upon taking damage.
+- Taking damage on a rotten heart converts it into a half red heart.
 - Upon picking it up, it replaces all held rotten hearts with full red hearts.
   - Beneficial or a downside, that's up to the player.
 

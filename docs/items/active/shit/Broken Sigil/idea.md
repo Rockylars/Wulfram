@@ -12,7 +12,9 @@
 <br>
 **Charges:** 4 pips
 <br>
-**Abyss:** Pentagram shape
+**Abyss:** Normal locust
+<br>
+**Abyss++:** Pentagram shape
 
 - Works like Crooked Penny, but for curses.
 - Using it has a 50% chance to either remove all curses or to double them.

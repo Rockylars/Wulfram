@@ -12,7 +12,9 @@
 <br>
 **Costume:** Brown hair and golden crown similar to the card
 <br>
-**Abyss:** Card
+**Abyss:** Extra damage locust
+<br>
+**Abyss++:** Card shaped
 
 - Enemies gain a 20% chance of dropping the "III - The Empress" card upon death.
 - You no longer gain the animation for this card.

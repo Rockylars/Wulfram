@@ -12,7 +12,9 @@
 <br>
 **Charges:** 3 pips
 <br>
-**Abyss:** Book shaped
+**Abyss:** Glitch locust
+<br>
+**Abyss++:** Book shaped
 
 - Applies a permanent, random status effect to every enemy.
   - Only 10 seconds for (mini-)bosses.

@@ -12,7 +12,9 @@
 <br>
 **Costume:** Blood dripping down face
 <br>
-**Abyss:** Bird shaped
+**Abyss:** Normal locust
+<br>
+**Abyss++:** Sword shaped
 
 - Once 3 enemies or fewer remain, they are turned into champion variants that give drops.
 - Only happens once per room, but will reactivate upon room restart such as with the [D7](https://bindingofisaacrebirth.fandom.com/wiki/D7).

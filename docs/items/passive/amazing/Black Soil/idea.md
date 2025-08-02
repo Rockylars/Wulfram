@@ -12,11 +12,14 @@
 <br>
 **Costume:** Pitch black skin with white, soul-piercing eyes, you also gain a hole in your chest
 <br>
-**Abyss:** Shaped like a black flame
+**Abyss:** Petrify + large creep locust
+<br>
+**Abyss++:** Shaped like a black flame
 
-- Enemies taking damage will put black creep similar looking to [Black Powder](https://bindingofisaacrebirth.fandom.com/wiki/Black_Powder)'s creep underneath them in a large puddle.
-- The black creep will petrify enemies touching it.
-  - This will also petrify themselves, taking damage while petrified still puts down more soil.
+- Enemies taking taking damage have a chance to release petrifying black creep.
+  - Similar looking to [Black Powder](https://bindingofisaacrebirth.fandom.com/wiki/Black_Powder)'s creep.
+  - Petrified enemies taking damage will always release more creep.
+  - Large amounts of it will activate the [Black Powder](https://bindingofisaacrebirth.fandom.com/wiki/Black_Powder) effect.
 - Their song was published the year I was born.
 
 ---

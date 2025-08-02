@@ -12,7 +12,9 @@
 <br>
 **Costume:** Egg-shaped eyes
 <br>
-**Abyss:** Egg shaped
+**Abyss:** Fear + petrify locust
+<br>
+**Abyss++:** Egg shaped
 
 - Grants a follower that goes in the follower chain.
 - Will make a bell ringing noise for 10 seconds every minute.
