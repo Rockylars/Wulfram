@@ -21,6 +21,7 @@
   - [Eucharist](https://bindingofisaacrebirth.fandom.com/wiki/Eucharist) instead gives a big tears up.
   - [Blood Atonement](/docs/items/passive/okay/Blood%20Atonement) still works with it's 15%!
 - All soul hearts are converted to their respective black hearts.
+- [Crow Heart](https://bindingofisaacrebirth.fandom.com/wiki/Crow_Heart) with [Mom's Box](https://bindingofisaacrebirth.fandom.com/wiki/Mom%27s_Box) or [Golden](https://bindingofisaacrebirth.fandom.com/wiki/Golden_Trinket) [Crow Heart](https://bindingofisaacrebirth.fandom.com/wiki/Crow_Heart) will have the reduced devil deal loss changed to trigger for soul heart damage.
 
 ---
 

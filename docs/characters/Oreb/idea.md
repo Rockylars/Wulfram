@@ -39,7 +39,7 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 **Oreb**'s health up will give a red heart container.
 
 **Oreb** spawns with:
-- Smelted [Crow Heart](https://bindingofisaacrebirth.fandom.com/wiki/Crow_Heart) trinket
+- Smelted [Crow Heart](https://bindingofisaacrebirth.fandom.com/wiki/Crow_Heart) trinket (**Oreb** with [Mom's Box](https://bindingofisaacrebirth.fandom.com/wiki/Mom%27s_Box) will have the reduced Devil deal loss happen on his soul hearts instead)
 - Smelted [Broken Magnet](https://bindingofisaacrebirth.fandom.com/wiki/Broken_Magnet) trinket
 - Smelted [Black Feather](https://bindingofisaacrebirth.fandom.com/wiki/Black_Feather) trinket
 - Held [Bloody Crown](https://bindingofisaacrebirth.fandom.com/wiki/Bloody_Crown) trinket

@@ -43,7 +43,7 @@
     - eternal heart --> golden heart
     - golden heart -> stays the same
   - For characters with no hearts or only coin hearts:
-    - Does not swap health, instead grants a [Roaming Raven](/docs/items/passive/good/Roaming%20Raven/idea.md) and [Circling Crow](/docs/items/passive/good/Circling%20Crow/idea.md) for the room.
+    - Does not swap health, instead grants a [Roaming Raven](/docs/items/passive/good/Roaming%20Raven/idea.md) and [Circling Crow](/docs/items/passive/good/Circling%20Crow/idea.md) for the floor.
 
 ---
 

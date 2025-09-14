@@ -1,10 +1,10 @@
 # Wulfram
-Isaac mod referencing Oreb and Zeeb
+Isaac mod referencing Oreb (the raven) and Zeeb (the wolf)
 
-In Greek mythology, crows are seen as messengers of the Gods and are associated with prophecy and insight.
-In biblical terms, crows are seen as both harbingers of good and evil.
-They are God's providence and messengers of God’s judgment.
-They taught Cain how to bury Abel, they have fed Elijah when he was at his lowest, but they have also been an omen directly associated with death.
+> **Luke 12:24**
+<br>
+Consider the ravens: they neither sow nor reap, they have neither storehouse nor barn, and yet God feeds them.
+Of how much more value are you than the birds!
 
 Oreb is not one to be blessed. His people (the Midians) have brought tyrannical rule over Israel for 7 years after Israel went back to Baal for their belief and God thus abandoned their protection.
 God has brought Gideon to overthrow the Midians for the punishment has been enough.
@@ -14,10 +14,12 @@ The underground bids him a final resting place, can he stay as swift as his came
 Will you guide Oreb to his fate, or will you sway the odds?
 Will his **forsaken** nature be bearable, as the whole world goes against him?
 
-**Luke 12:24**
-<br>
-Consider the ravens: they neither sow nor reap, they have neither storehouse nor barn, and yet God feeds them.
-Of how much more value are you than the birds!
+With ravens and crows so alike, crows are hereby also referenced a lot.
+In Greek mythology, crows are seen as messengers of the Gods and are associated with prophecy and insight.
+In biblical terms, crows are seen as both harbingers of good and evil.
+They are God's providence and messengers of God’s judgment.
+They taught Cain how to bury Abel, they have fed Elijah when he was at his lowest, but they have also been an omen directly associated with death.
+
 
 ---
 
