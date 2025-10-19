@@ -19,4 +19,4 @@ He tends to dislike the [Mothman](https://fiendfolio.wiki.gg/wiki/Mothman) enemi
 
 The name Wulfram (or Wolfram) means Wolf Raven, which perfectly fits this character idea, it was the original name for the character until I simply went with Oreb's actual name.
 It's a character all about having flight, feather tears and reversed health, entirely based on the [Crow Heart](https://bindingofisaacrebirth.fandom.com/wiki/Crow_Heart) trinket but expanded on it.
-Really going after that Morvid crow design.
+Really going after that [Morvid](https://fiendfolio.wiki.gg/wiki/Morvid) crow design.

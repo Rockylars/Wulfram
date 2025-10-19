@@ -5,7 +5,7 @@
 **Icon:** Penny with two small orbs, similar to [Cursed Penny](https://bindingofisaacrebirth.fandom.com/wiki/Cursed_Penny)
 
 All pennies you pick up will act as if you're holding [Cursed Penny](https://bindingofisaacrebirth.fandom.com/wiki/Cursed_Penny) with only a 25% chance of teleporting to be less horrible.
-You will malso have the effect of [Broken Magnet](https://bindingofisaacrebirth.fandom.com/wiki/Broken_Magnet).
+You will also have the effect of [Broken Magnet](https://bindingofisaacrebirth.fandom.com/wiki/Broken_Magnet).
 
 ---
 
