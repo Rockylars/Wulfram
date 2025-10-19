@@ -22,4 +22,6 @@
 ---
 
 - https://en.wikipedia.org/wiki/Siddur
-- https://en.wikipedia.org/wiki/Raven_Penny
+- https://bindingofisaacrebirth.fandom.com/wiki/Empty_Heart
+- https://bindingofisaacrebirth.fandom.com/wiki/Hollow_Heart
+- https://bindingofisaacrebirth.fandom.com/wiki/Maggy%27s_Faith

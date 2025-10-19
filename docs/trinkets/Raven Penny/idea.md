@@ -4,7 +4,7 @@
 <br>
 **Transformation(s):** -
 <br>
-**Appearance:** [Silver coin with a crow on it](reference.png)
+**Appearance:** [Silver coin with a raven on it](reference.png)
 
 - Spawns a feather orbital for every penny variant collected.
 - Spawns 3 feather orbitals for every penny variant collected over the max limit.

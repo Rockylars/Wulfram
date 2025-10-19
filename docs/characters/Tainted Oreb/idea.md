@@ -55,10 +55,10 @@ Purple represents royalty and corruption the best, as well as being the soul sto
 **Tainted Oreb**'s health up will give either a bone or black heart, randomly.
 
 **Tainted Oreb** spawns with:
-- Smelted Hollow Heart trinket
-- Smelted Broken Magnet trinket
-- Smelted Mom's Pearl trinket
-- Held Black Feather trinket
+- Smelted [Hollow Heart](https://bindingofisaacrebirth.fandom.com/wiki/Hollow_Heart) trinket
+- Smelted [Broken Magnet](https://bindingofisaacrebirth.fandom.com/wiki/Broken_Magnet) trinket
+- Smelted [Mom's Pearl](https://bindingofisaacrebirth.fandom.com/wiki/Mom%27s_Pearl) trinket
+- Held [Black Feather](https://bindingofisaacrebirth.fandom.com/wiki/Black_Feather) trinket
 
 **Tainted Oreb**'s health is:
 - One bone heart

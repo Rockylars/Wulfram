@@ -14,7 +14,7 @@ You start as **Oreb** with the following items:
 - [Placenta](https://bindingofisaacrebirth.fandom.com/wiki/Placenta)
 - [Empty Heart](https://bindingofisaacrebirth.fandom.com/wiki/Empty_Heart)
 - [Candy Heart](https://bindingofisaacrebirth.fandom.com/wiki/Candy_Heart)
-- [Hollow Heart](https://bindingofisaacrebirth.fandom.com/wiki/Hollow_Heart)
+- [Hollow Heart](https://bindingofisaacrebirth.fandom.com/wiki/Hollow_Heart) trinket
 - [Forsaken]()
 - Smelted [Child's Heart](https://bindingofisaacrebirth.fandom.com/wiki/Child%27s_Heart) trinket
 - Smelted [Crow Heart](https://bindingofisaacrebirth.fandom.com/wiki/Crow_Heart) trinket

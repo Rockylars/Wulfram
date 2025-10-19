@@ -13,7 +13,7 @@ The collection is focused on knife and some bomb related items/trinkets.
 
 Will not take more than 30 bombs, however this does not guarantee an item payout as the health is already massively beneficial unless you're **Bethany**.
 
-Killing it grants [Curse of Pica](/docs/curses/special/Curse%20of%20Pica/idea.md).
+Killing it grants [Curse of Pica](/docs/curses/temporary/Curse%20of%20Pica/idea.md).
 
 ---
 

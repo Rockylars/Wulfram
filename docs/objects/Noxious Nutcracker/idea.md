@@ -8,7 +8,7 @@ Has a 10% chance to spawn an item from the specific item collection upon leaving
 
 The collection is focused on sacks related items/trinkets, though most aren't that good.
 
-Bombing this beggar grants [Curse of Nucifraga](/docs/curses/special/Curse%20of%20Nucifraga/idea.md)
+Bombing this beggar grants [Curse of Nucifraga](/docs/curses/temporary/Curse%20of%20Nucifraga/idea.md)
 
 ---
 
