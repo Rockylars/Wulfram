@@ -12,7 +12,9 @@
 <br>
 **Costume:** Darkness spreading over Isaac's face
 <br>
-**Abyss:** Yellow and red star
+**Abyss:** Extra damage locust
+<br>
+**Abyss++:** Yellow and red star
 
 - Taking a devil deal item will turn the devil statue into a fallen angel.
 - The treasure room is now guarded by an angel statue that will come to life as soon as you pick the item up.

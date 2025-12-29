@@ -12,7 +12,9 @@
 <br>
 **Costume:** Blood dripping from mouth, blood around neck
 <br>
-**Abyss:** Wine bottle
+**Abyss:** Fear locust
+<br>
+**Abyss++:** Wine bottle
 
 - Every boss will spawn with 10 seconds of fear.
   - No effect on Great Gideon.

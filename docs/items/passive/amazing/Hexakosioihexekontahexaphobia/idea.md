@@ -12,7 +12,9 @@
 <br>
 **Costume:** Three sixes on back of head, another three on the eyes and mouth
 <br>
-**Abyss:** Shaped like the item
+**Abyss:** Extra damage + fear + dash + larynx locust
+<br>
+**Abyss++:** Shaped like the item
 
 - Will teleport you out of a Devil deal and Curse room after 6.66 seconds using the rewind from [Glowing Hour Glass](https://bindingofisaacrebirth.fandom.com/wiki/Glowing_Hourglass) unless you exit by yourself.
   - The teleport has no limit and will continue to happen no matter how many times you try, so you must rush, or use it to your benefit to regain health and Angel deal chance.

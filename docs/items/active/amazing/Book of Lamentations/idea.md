@@ -12,7 +12,9 @@
 <br>
 **Charges:** 3 pips
 <br>
-**Abyss:** Book shaped
+**Abyss:** Normal locust
+<br>
+**Abyss++:** Book shaped
 
 - Applies a +2.5 tears up that loses 0.5 per room
   - Will slowly stack due to the lower charge rate than depletion rate

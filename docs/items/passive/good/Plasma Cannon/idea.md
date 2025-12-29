@@ -12,7 +12,9 @@
 <br>
 **Costume:** Straight feathers alongside the cheeks, blood marks as well
 <br>
-**Abyss:** Shaped like the item
+**Abyss:** Bomb locust
+<br>
+**Abyss++:** Blue plasma ball shape
 
 - Fires a blue, glowing, arcing, explosive (like [Ipecac](https://bindingofisaacrebirth.fandom.com/wiki/Ipecac)) tear with a set long range after firing for 4 seconds (and so on).
   - Can not hurt you.

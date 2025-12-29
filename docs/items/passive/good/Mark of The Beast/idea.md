@@ -12,7 +12,9 @@
 <br>
 **Costume:** Three claw marks in the back of the head
 <br>
-**Abyss:** Shaped like the item
+**Abyss:** Fear locust
+<br>
+**Abyss++:** Shaped like the item
 
 - Adds an extra life with top priority on character revivals, but below normal revives.
   - Upon death, you respawn as [Incarnate](/docs/characters/Incarnate/idea.md).

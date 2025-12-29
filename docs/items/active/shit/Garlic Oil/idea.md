@@ -12,12 +12,10 @@
 <br>
 **Charges:** 2 pips
 <br>
-**Abyss:** Small bottle
+**Abyss:** Fear locust
+<br>
+**Abyss++:** Small bottle
 
 - Applies permanent fear to all flying enemies, including bosses.
   - It's permanent because this item is stupid, and it is basically a hidden god item as it permanently fears Mega Satan, Isaac, The Lamb and ???.
-- **Oreb**, **Tainted Oreb**: Grants 1 second of fear to themselves upon use.
-
----
-
-- https://noita.wiki.gg/wiki/Sampo
+- **Oreb**, **Tainted Oreb**: Grants 1 second of fear to themselves upon use as well.

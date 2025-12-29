@@ -12,7 +12,9 @@
 <br>
 **Charges:** One-time use
 <br>
-**Abyss:** Shaped like the item
+**Abyss:** Normal locust
+<br>
+**Abyss++:** Shaped like the item
 
 - Converts neutral/holy babies to [Cambion Conception](https://bindingofisaacrebirth.fandom.com/wiki/Cambion_Conception) babies.
 - Is pretty shit in most cases, but can grant you a bunch of top tier babies if you do it right.

@@ -12,7 +12,9 @@
 <br>
 **Costume:** Feathers randomly over face
 <br>
-**Abyss:** Shaped like the item
+**Abyss:** Shield + piercing locust
+<br>
+**Abyss++:** Shaped like the item
 
 - Adds a flying crow familiar that circles around isaac.
   - Picking it up chooses a random ring level, speed and direction.

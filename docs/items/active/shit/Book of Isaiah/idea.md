@@ -12,7 +12,9 @@
 <br>
 **Charges:** 2 pips
 <br>
-**Abyss:** Book shaped
+**Abyss:** Backstab locust
+<br>
+**Abyss++:** Book shaped
 
 - Turns the room dark.
 - Applies bleed to all enemies in the room, permanently.

@@ -12,7 +12,9 @@
 <br>
 **Costume:** Inverted Isaac
 <br>
-**Abyss:** Glitch
+**Abyss:** Glitch + shield + petrify + bomb locust locust
+<br>
+**Abyss++:** Glitch
 
 - Upon dying, you enter godmode.
   - You can't take any damage during it.

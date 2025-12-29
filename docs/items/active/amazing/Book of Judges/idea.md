@@ -12,7 +12,9 @@
 <br>
 **Charges:** 4 pips
 <br>
-**Abyss:** Book shaped
+**Abyss:** Normal locust
+<br>
+**Abyss++:** Book shaped
 
 - Applies a diminishing tears up.
   - It will ignore the tear cap.

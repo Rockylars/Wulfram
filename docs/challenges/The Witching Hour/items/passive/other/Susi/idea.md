@@ -8,7 +8,9 @@
 <br>
 **Pools:** Secret room
 <br>
-**Abyss:** Shaped like the item
+**Abyss:** Extra damage locust
+<br>
+**Abyss++:** Shaped like the item
 
 - Plays the Finnish TTS of "Susi",
 - Grants you the effect of [Dog Tooth](https://bindingofisaacrebirth.fandom.com/wiki/Dog_Tooth).

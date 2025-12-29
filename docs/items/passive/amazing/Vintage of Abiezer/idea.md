@@ -12,7 +12,9 @@
 <br>
 **Costume:** Blood and grape juice all over top of head, coming down like hair
 <br>
-**Abyss:** Wine bottle shaped
+**Abyss:** Shield + growth locust (only absorbs tears)
+<br>
+**Abyss++:** Wine bottle shaped
 
 - Turns all remaining enemy projectiles into pickups after finishing a room.
   - Has a low chance to turn into a chest instead

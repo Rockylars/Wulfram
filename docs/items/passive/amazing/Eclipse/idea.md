@@ -12,7 +12,9 @@
 <br>
 **Costume:** Black feathered wings and the white dots in Isaac's eyes are made ever so slightly red
 <br>
-**Abyss:** Shaped like a red eye
+**Abyss:** Slow locust (moves faster than all held locusts)
+<br>
+**Abyss++:** Shaped like a red eye
 
 - Speed cap is raised to `3.0`.
 - Minimum speed is raised from `0.1` to `0.7`

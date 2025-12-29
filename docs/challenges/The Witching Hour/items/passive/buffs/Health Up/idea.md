@@ -8,7 +8,9 @@
 <br>
 **Pools:** Golden chest, Secret room, Curse room, Super secret room, Vault room
 <br>
-**Abyss:** Heart shaped
+**Abyss:** Homing locust
+<br>
+**Abyss++:** Heart shaped
 
 - Adds 2 empty red heart containers.
 - Does not spawn outside the challenge.

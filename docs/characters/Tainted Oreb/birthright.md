@@ -4,7 +4,7 @@
 
 **Devil's offering:**
 - Item rooms will be replaced by devil deals, but costing money like **Keeper**.
-- If **Tainted Oreb** holds Devil's Crown, they will be filled with angel items.
+- If **Tainted Oreb** holds [Devil's Crown](https://bindingofisaacrebirth.fandom.com/wiki/Devil's_Crown), they will be filled with angel items.
 - This is meant to be a darker black market.
 
 **Strength from beyond the veil**

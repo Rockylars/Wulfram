@@ -12,7 +12,9 @@
 <br>
 **Charges:** One-time use
 <br>
-**Abyss:** White and blue box
+**Abyss:** Normal locust
+<br>
+**Abyss++:** White and blue box
 
 - Works exactly like [Sacrificial Alter](https://bindingofisaacrebirth.fandom.com/wiki/Sacrificial_Altar) without the room darkening effect and a holy reward instead.
 

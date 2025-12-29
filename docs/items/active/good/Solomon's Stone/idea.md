@@ -12,7 +12,9 @@
 <br>
 **Charges:** 6 pips
 <br>
-**Abyss:** Turquoise tear gem shaped
+**Abyss:** Midas locust
+<br>
+**Abyss++:** Turquoise tear gem shaped
 
 - Turns the whole room to gold.
 - Turns all enemies and yourself to gold, freezing everyone in place.

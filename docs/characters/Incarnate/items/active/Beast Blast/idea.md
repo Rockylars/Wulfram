@@ -10,7 +10,9 @@
 <br>
 **Charges:** 3 pips
 <br>
-**Abyss:** Orb shaped
+**Abyss:** Brimstone locust
+<br>
+**Abyss++:** Orb shaped
 
 - Fire an unstoppable tech brimstone for 3 seconds with your damage, minimum 5 damage.
 

@@ -12,9 +12,11 @@
 <br>
 **Costume:** Lily resting on top of head
 <br>
-**Abyss:** Bird shaped
+**Abyss:** Growth locust
+<br>
+**Abyss++:** Bird shaped
 
-- Spawns a random beggar in every room, yes, every room.
+- Spawns a random beggar in every room where it would not block the path to all the doors.
   - This includes the bird beggars.
 
 ---

@@ -12,7 +12,7 @@ From the 14th penny, you get a 1/8th chance of gaining an item.
 
 The collections are focused on light weighted spider and food related items/trinkets.
 
-Will give [Curse of Corvus](/docs/curses/special/Curse%20of%20Corvus/idea.md) if bombed.
+Will give [Curse of Corvus](/docs/curses/corvinae/Curse%20of%20Corvus/idea.md) if bombed.
 
 ---
 

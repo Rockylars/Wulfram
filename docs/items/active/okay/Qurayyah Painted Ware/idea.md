@@ -12,7 +12,9 @@
 <br>
 **Charges:** 3 pips
 <br>
-**Abyss:** Jar shaped
+**Abyss:** Large creep locust
+<br>
+**Abyss++:** Jar shaped
 
 - Floods the room with water creep that lasts 5 seconds.
 

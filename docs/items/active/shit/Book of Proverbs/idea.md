@@ -12,11 +12,12 @@
 <br>
 **Charges:** two pips
 <br>
-**Abyss:** Shaped like the item
+**Abyss:** Slow + concuss locust
+<br>
+**Abyss++:** Shaped like the item
 
-- Grants a chance for homing knowledge tears that instill slowness and confusion to the enemy.
+- Grants a 25% chance for homing "knowledge" tears that instill slowness and confusion to the enemy.
   - They look like egyptian symbols, since a large part of this book is the [Instruction of Amenemope](https://en.wikipedia.org/wiki/Instruction_of_Amenemope).
-  - Has a set 25% chance, using it again (somehow) doubles that chance.
 - It's a bit crappy, but you need to add bad items to balance it out.
 
 ---

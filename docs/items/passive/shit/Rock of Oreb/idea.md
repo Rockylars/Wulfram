@@ -12,7 +12,9 @@
 <br>
 **Costume:** Rock stuck in face like [The Small Rock](https://bindingofisaacrebirth.fandom.com/wiki/The_Small_Rock), just different, as well as blood around neck
 <br>
-**Abyss:** Shaped like the item
+**Abyss:** Terra locust
+<br>
+**Abyss++:** Shaped like the item
 
 - Damage taken will trigger 10 random rocks to break.
 - **Oreb**, **Tainted Oreb**: Picking this up will activate the Paralysis pill.
